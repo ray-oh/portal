@@ -16,9 +16,16 @@ A centralized index of my active and archived work.
 
 | Project | Description | Link |
 |--------|-------------|------|
-| Business Card Generator | My personal contact card with QR and styling | [GitHub Repo](https://github.com/ray-oh/business_card) |
-| Home Media System | Docs for Plex/Jellyfin setup | [GitHub Repo](https://github.com/ray-oh/home-media-docs) |
-| Personal Wiki | Notes, life admin, and reference guides | [Google Site](https://sites.google.com/view/my-personal-wiki) |
+| Business Card Generator | My personal contact card with QR and styling | [Private Repo](https://github.com/ray-oh/business_card) |
+| Opti-Stream | Streaming Video Downloader | [Private Repo](https://github.com/ray-oh/opti-stream) |
+| Opti-AI | AI Assistant | [Private Repo](https://github.com/ray-oh/Opti-Ai) |
+| Opti-Helpdesk | Ticket classification | [Private Repo](https://github.com/ray-oh/Opti-Helpdesk) |
+| Manuals | Useful manuals for applicances | [Private Repo](https://github.com/ray-oh/Manuals) |
+| Stock Trading | Investments and Trading | [Private Repo](https://github.com/ray-oh/Stock-Trading) |
+| Creative Studio | Digital and Content creation | [Private Repo](https://github.com/ray-oh/creative-studio) |
+| Youtube | Audio and streaming related - clean up | [Private Repo](https://github.com/ray-oh/youtube) |
+| Personal Blog | Notes, life admin, and reference guides | [Google Site](https://sites.google.com/view/rayoh-blog/home) |
+| Test site | Test site from learn@gmail | [Google Site](https://sites.google.com/view/rayoh) |
 | Project Onboarding | Internal setup guides for team tools | [Google Site](https://sites.google.com/view/project-onboarding-private) |
 
 > 💡 **Tip**: If you should have access but see a 404, make sure you’re signed into the correct Google or GitHub account.
@@ -31,9 +38,12 @@ A centralized index of my active and archived work.
 
 | Project | Description | Link |
 |--------|-------------|------|
-| Home Media Docs (Public) | Guide to self-hosted media servers | [View Docs](https://ray-oh.github.io/home-media-public) |
-| Dotfiles | My terminal and editor configs | [GitHub Repo](https://github.com/ray-oh/dotfiles) |
-| Docs Template | This site’s foundation — a GitHub Pages template | [GitHub Repo](https://github.com/ray-oh/docs-template) |
+| Home Media Docs (Public) | Guide to Streaming Resources | [View Docs](https://ray-oh.github.io/HomeMediaStream/) |
+| Optimus | RPA Solution | [Private Repo](https://github.com/ray-oh/OptimusEnterprise) [Installation](https://github.com/ray-oh/Optimus-Installation) [View Docs](https://ray-oh.github.io/Optimus-Documentation/) |
+| Docs Template | GitHub Pages template | [GitHub Repo](https://github.com/ray-oh/docs-template) |
+| Piano | Various Piano Tools | [GitHub Repo](https://github.com/ray-oh/piano) |
+| Music | Music Sheets | [Github Repo](https://github.com/ray-oh/sheet-music) |
+| Github Guide | Github Tutorial | [GitHub Repo](https://github.com/ray-oh/tutorialGitHub) |
 
 ---
 
