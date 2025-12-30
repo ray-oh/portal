@@ -1,30 +1,27 @@
 # Site settings
-title: Project Documentation
-description: Clear, helpful documentation for your project.
-url: https://ray-oh.github.io/docs-template  # Optional but recommended - https://your-username.github.io/your-repo-name
-baseurl: /docs-template                               # Critical if repo isn't at root (e.g., not a user/organization site)  - /your-repo-name
+title: My Personal Portal
+description: A public index to my projects, knowledge base, and private resources (access-restricted).
+url: https://ray-oh.github.io/portal
+baseurl: /portal
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-# Theme (choose one official GitHub Pages theme)
+# Theme (official GitHub Pages theme)
 theme: jekyll-theme-primer
 
-# Plugins (GitHub Pages only supports these)
+# Plugins (only those supported by GitHub Pages)
 plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-include-cache
 
-# Exclude from processing (improves build speed)
+# Exclude non-essential files from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
   - CNAME
-
-# Optional: Google Analytics (replace with your ID)
-# google_analytics: UA-XXXXXXXXX-X
