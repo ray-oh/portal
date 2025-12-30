@@ -1,0 +1,30 @@
+# Site settings
+title: Project Documentation
+description: Clear, helpful documentation for your project.
+url: https://ray-oh.github.io/docs-template  # Optional but recommended - https://your-username.github.io/your-repo-name
+baseurl: /docs-template                               # Critical if repo isn't at root (e.g., not a user/organization site)  - /your-repo-name
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Theme (choose one official GitHub Pages theme)
+theme: jekyll-theme-primer
+
+# Plugins (GitHub Pages only supports these)
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-include-cache
+
+# Exclude from processing (improves build speed)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+
+# Optional: Google Analytics (replace with your ID)
+# google_analytics: UA-XXXXXXXXX-X
