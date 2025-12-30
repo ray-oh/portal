@@ -1,33 +1,39 @@
-# 📄 GitHub Pages Documentation Template
+# 🧭 My Personal Portal
 
-Use this template to instantly create a clean, professional documentation site hosted on **GitHub Pages**.
+A public index to my digital world—linking to both **public resources** and **private/internal tools** (like private repos and restricted Google Sites).
 
-## 🚀 How to Use This Template
+> 🔒 **Private links only work if you’ve been explicitly granted access.**  
+> If you see a 404, it means you don’t have permission—which is expected and secure.
 
-1. Click **[Use this template](https://github.com/ray-oh/docs-template/generate)**  
-2. Name your new repo (e.g., `my-project-docs`)
-3. Go to **Settings → Pages**:
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main`
-   - **Folder**: `/docs`
-4. Your site will be live at:  
-   `https://<your-username>.github.io/<repo-name>/`
+## 📚 What’s Here?
 
-## 📂 What’s Included
+This site serves as my:
+- **Knowledge base**
+- **Project dashboard**
+- **Quick-access launchpad** for tools and documentation
 
-- `/docs/` – Sample documentation pages (edit or delete these!)
-- `_config.yml` – Site configuration (title, theme, etc.)
-- `.gitignore` – Ignores Jekyll build files
-- MIT License – Free to use and modify
+All content is hosted via **GitHub Pages** and built from Markdown files in the [`/docs`](/docs) folder.
 
-## ✏️ Next Steps
+## 🔗 Visit the Live Site
 
-- Replace all placeholder content in `/docs`
-- Update `_config.yml` with your project name
-- Customize the theme or add a custom domain
+🌐 **[https://ray-oh.github.io/portal](https://ray-oh.github.io/portal)**
 
-> 💡 **Tip**: This template uses GitHub’s built-in Jekyll support — no local build required!
+## 🛠️ How It Works
+
+- The **repo is public** (so GitHub Pages works for free).
+- It **only contains links**—no private code or data is stored here.
+- Access to linked resources (e.g., private GitHub repos, Google Sites) is controlled by **external permissions**:
+  - GitHub: repo collaborator settings
+  - Google Sites: “Restricted” sharing to specific emails
+
+## ✏️ Customizing This Portal
+
+This repo was created from a [documentation template](https://github.com/ray-oh/docs-template). To update:
+1. Edit Markdown files in `/docs`
+2. Push changes → site auto-updates in ~1 minute
+
+> 💡 Tip: Use this as your personal homepage or team onboarding hub.
 
 ---
 
-MIT License © [ray-oh]
+© [Ray Oh] · Public index only — private content remains private.
