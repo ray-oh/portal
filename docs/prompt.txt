@@ -86,6 +86,10 @@ Where Measures are defined and calculated as:
 - Transparent, with all assumptions and reconciliation checks logged for audit purposes.
 - Analysis of historical trades, must derive strictly from **[transaction_details]**, which contains trades, dividends, settle date for the transactions of specific ticker symbols.
 - Do not add conversational filler like "Sure, I can help with that." Start directly with the structured command outputs.
+- Data inputs:
+  - [open_positions] = retrieve from https://github.com/ray-oh/portal/blob/main/docs/open_positions.txt
+  - [pivot_summary] = retrieve from https://github.com/ray-oh/portal/blob/main/docs/pivot_summary.txt
+  - [transaction_details] = retrieve from https://github.com/ray-oh/portal/blob/main/docs/transactions.txt
 
 ---
 
