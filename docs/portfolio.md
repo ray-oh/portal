@@ -145,7 +145,7 @@ Overall assessment of the trades, strategic intent, asessment of its impact and 
 - Log refresh timestamp, FX rates, and reconciliation checks in an **audit trail**.
 - Use the **latest available snapshot** unless a fixed reporting date is specified.
 
-- Current refresh timestamp: **2026-07-29 18:07:18**.
+- Current refresh timestamp: **2026-07-29 18:19:23**.
 
 
 # [transaction_details] START  
@@ -1761,19 +1761,19 @@ Forex;IBKR;Forex;;CNH;0.149033356;;-0.14781;;880.9476;-7.2912;0.0003399340504309
 ---
 
 # [pivot_summary] START  
-PORTFOLIO PIVOT SUMMARY
-Report Date : 2026-07-28
-Filter      : Open Positions | Forex Balances | Cash Balances
-Generated   : 2026-07-28 23:05:58
-======================================================================
+# PORTFOLIO PIVOT SUMMARY
 
-══════════════════════════════════════════════════════════════════════
-  ASSET CATEGORY : Equity and Index Options
-══════════════════════════════════════════════════════════════════════
+**Report Date :** 2026-07-29  
+**Filter      :** Open Positions | Forex Balances | Cash Balances  
+**Generated   :** 2026-07-29 18:19:23  
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : IBKR
-  ──────────────────────────────────────────────────────────────────
+---
+
+## Equity and Index Options
+
+### IBKR
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 BHP         -1461.28       4.0      -1461.28
@@ -1789,144 +1789,156 @@ PDD         -3416.10       4.0      -3416.10
 RMS        -42463.97       1.0     -49472.07
 SAP         -8196.00       3.0      -9548.64
 UNH         -6377.68       3.0      -6377.68
-  ········································
-  SUBTOTAL [IBKR]  Amount:      -88,820.60  Quantity:           37.00  Value in USD:      -97,589.53
+```
 
-──────────────────────────────────────────────────────────────────────
-  SUBTOTAL [Equity and Index Options]  Amount:      -88,820.60  Quantity:           37.00  Value in USD:      -97,589.53
+> **SUBTOTAL [IBKR]**  Amount: `     -88,820.60`  Quantity: `          37.00`  Value in USD: `     -97,589.53`
 
-══════════════════════════════════════════════════════════════════════
-  ASSET CATEGORY : Forex
-══════════════════════════════════════════════════════════════════════
+> **SUBTOTAL [Equity and Index Options]**  Amount: `     -88,820.60`  Quantity: `          37.00`  Value in USD: `     -97,589.53`
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : Citic
-  ──────────────────────────────────────────────────────────────────
+---
+
+## Forex
+
+### Citic
+
+```
                Amount  Quantity  Value in USD
 Underlying                                   
 Forex       626595.11      0.13      79953.54
-  ········································
-  SUBTOTAL [Citic]  Amount:      626,595.11  Quantity:            0.13  Value in USD:       79,953.54
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : DBS
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [Citic]**  Amount: `     626,595.11`  Quantity: `           0.13`  Value in USD: `      79,953.54`
+
+### DBS
+
+```
              Amount  Quantity  Value in USD
 Underlying                                 
 Forex       1343.41      0.78       1043.83
-  ········································
-  SUBTOTAL [DBS]  Amount:        1,343.41  Quantity:            0.78  Value in USD:        1,043.83
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : Moomoo
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [DBS]**  Amount: `       1,343.41`  Quantity: `           0.78`  Value in USD: `       1,043.83`
+
+### Moomoo
+
+```
              Amount  Quantity  Value in USD
 Underlying                                 
 Forex       21000.0      1.55       16317.0
-  ········································
-  SUBTOTAL [Moomoo]  Amount:       21,000.00  Quantity:            1.55  Value in USD:       16,317.00
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : OCBC
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [Moomoo]**  Amount: `      21,000.00`  Quantity: `           1.55`  Value in USD: `      16,317.00`
+
+### OCBC
+
+```
             Amount  Quantity  Value in USD
 Underlying                                
 Forex       8019.8      0.78       6231.38
-  ········································
-  SUBTOTAL [OCBC]  Amount:        8,019.80  Quantity:            0.78  Value in USD:        6,231.38
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : OCBC Joint
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [OCBC]**  Amount: `       8,019.80`  Quantity: `           0.78`  Value in USD: `       6,231.38`
+
+### OCBC Joint
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 Forex       58690.84      0.78      45602.78
-  ········································
-  SUBTOTAL [OCBC Joint]  Amount:       58,690.84  Quantity:            0.78  Value in USD:       45,602.78
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : POSB
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [OCBC Joint]**  Amount: `      58,690.84`  Quantity: `           0.78`  Value in USD: `      45,602.78`
+
+### POSB
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 Forex       78639.66      0.78      61103.02
-  ········································
-  SUBTOTAL [POSB]  Amount:       78,639.66  Quantity:            0.78  Value in USD:       61,103.02
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : Schwab
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [POSB]**  Amount: `      78,639.66`  Quantity: `           0.78`  Value in USD: `      61,103.02`
+
+### Schwab
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 Forex       66888.79       1.0      66888.79
-  ········································
-  SUBTOTAL [Schwab]  Amount:       66,888.79  Quantity:            1.00  Value in USD:       66,888.79
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : StanChart
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [Schwab]**  Amount: `      66,888.79`  Quantity: `           1.00`  Value in USD: `      66,888.79`
+
+### StanChart
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 Forex       12659.65      0.13       1615.37
-  ········································
-  SUBTOTAL [StanChart]  Amount:       12,659.65  Quantity:            0.13  Value in USD:        1,615.37
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : StanChart AsiaMiles TD
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [StanChart]**  Amount: `      12,659.65`  Quantity: `           0.13`  Value in USD: `       1,615.37`
+
+### StanChart AsiaMiles TD
+
+```
                Amount  Quantity  Value in USD
 Underlying                                   
 Forex       1010000.0      0.26      128876.0
-  ········································
-  SUBTOTAL [StanChart AsiaMiles TD]  Amount:    1,010,000.00  Quantity:            0.26  Value in USD:      128,876.00
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : StanChart Payroll
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [StanChart AsiaMiles TD]**  Amount: `   1,010,000.00`  Quantity: `           0.26`  Value in USD: `     128,876.00`
+
+### StanChart Payroll
+
+```
                Amount  Quantity  Value in USD
 Underlying                                   
 Forex       255762.86      0.13      32635.34
-  ········································
-  SUBTOTAL [StanChart Payroll]  Amount:      255,762.86  Quantity:            0.13  Value in USD:       32,635.34
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : IBKR
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [StanChart Payroll]**  Amount: `     255,762.86`  Quantity: `           0.13`  Value in USD: `      32,635.34`
+
+### IBKR
+
+```
               Amount  Quantity  Value in USD
 Underlying                                  
 Forex       45361.27      4.52      27319.08
-  ········································
-  SUBTOTAL [IBKR]  Amount:       45,361.27  Quantity:            4.52  Value in USD:       27,319.08
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : UOB
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [IBKR]**  Amount: `      45,361.27`  Quantity: `           4.52`  Value in USD: `      27,319.08`
+
+### UOB
+
+```
              Amount  Quantity  Value in USD
 Underlying                                 
 Forex       8876.97      0.78       6897.41
-  ········································
-  SUBTOTAL [UOB]  Amount:        8,876.97  Quantity:            0.78  Value in USD:        6,897.41
+```
 
-──────────────────────────────────────────────────────────────────────
-  SUBTOTAL [Forex]  Amount:    2,193,838.36  Quantity:           11.59  Value in USD:      474,483.53
+> **SUBTOTAL [UOB]**  Amount: `       8,876.97`  Quantity: `           0.78`  Value in USD: `       6,897.41`
 
-══════════════════════════════════════════════════════════════════════
-  ASSET CATEGORY : Stocks
-══════════════════════════════════════════════════════════════════════
+> **SUBTOTAL [Forex]**  Amount: `   2,193,838.36`  Quantity: `          11.59`  Value in USD: `     474,483.53`
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : Schwab
-  ──────────────────────────────────────────────────────────────────
+---
+
+## Stocks
+
+### Schwab
+
+```
              Amount  Quantity  Value in USD
 Underlying                                 
 IVV          6589.6     -10.0        6589.6
 MSFT        37340.0    -100.0       37340.0
-  ········································
-  SUBTOTAL [Schwab]  Amount:       43,929.60  Quantity:         -110.00  Value in USD:       43,929.60
+```
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : IBKR
-  ──────────────────────────────────────────────────────────────────
+> **SUBTOTAL [Schwab]**  Amount: `      43,929.60`  Quantity: `        -110.00`  Value in USD: `      43,929.60`
+
+### IBKR
+
+```
                Amount  Quantity  Value in USD
 Underlying                                   
 1299         46770.00    -600.0       5982.08
@@ -1991,19 +2003,19 @@ SAP          15128.00    -100.0      17624.67
 SOUHY         4657.50    -300.0       4657.50
 TSM         119727.00    -300.0     119727.00
 UNH          83528.00    -200.0      83528.00
-  ········································
-  SUBTOTAL [IBKR]  Amount:    3,146,804.43  Quantity:     -159,247.00  Value in USD:    1,403,831.73
+```
 
-──────────────────────────────────────────────────────────────────────
-  SUBTOTAL [Stocks]  Amount:    3,190,734.03  Quantity:     -159,357.00  Value in USD:    1,447,761.33
+> **SUBTOTAL [IBKR]**  Amount: `   3,146,804.43`  Quantity: `    -159,247.00`  Value in USD: `   1,403,831.73`
 
-══════════════════════════════════════════════════════════════════════
-  ASSET CATEGORY : Treasury Bills
-══════════════════════════════════════════════════════════════════════
+> **SUBTOTAL [Stocks]**  Amount: `   3,190,734.03`  Quantity: `    -159,357.00`  Value in USD: `   1,447,761.33`
 
-  ──────────────────────────────────────────────────────────────────
-  ACCOUNT : IBKR
-  ──────────────────────────────────────────────────────────────────
+---
+
+## Treasury Bills
+
+### IBKR
+
+```
                Amount  Quantity  Value in USD
 Underlying                                   
 912797RG4   170826.40 -171000.0     170826.40
@@ -2012,15 +2024,16 @@ Underlying
 912797UE5    97178.63 -100000.0      97178.63
 912797UX3   104633.53 -108000.0     104633.53
 912797VF1   254919.90 -264000.0     254919.90
-  ········································
-  SUBTOTAL [IBKR]  Amount:      766,869.69  Quantity:     -785,000.00  Value in USD:      766,869.69
+```
 
-──────────────────────────────────────────────────────────────────────
-  SUBTOTAL [Treasury Bills]  Amount:      766,869.69  Quantity:     -785,000.00  Value in USD:      766,869.69
+> **SUBTOTAL [IBKR]**  Amount: `     766,869.69`  Quantity: `    -785,000.00`  Value in USD: `     766,869.69`
 
-══════════════════════════════════════════════════════════════════════
-  GRAND TOTAL  Amount:    6,062,621.48  Quantity:     -944,308.41  Value in USD:    2,591,525.03
-══════════════════════════════════════════════════════════════════════
+> **SUBTOTAL [Treasury Bills]**  Amount: `     766,869.69`  Quantity: `    -785,000.00`  Value in USD: `     766,869.69`
+
+---
+
+> ### GRAND TOTAL  
+> Amount: `   6,062,621.48`  Quantity: `    -944,308.41`  Value in USD: `   2,591,525.03`
 
 ---
 
