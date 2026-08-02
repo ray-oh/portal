@@ -1572,7 +1572,7 @@ To ensure absolute data integrity, output the mathematical reconciliation check:
 
 # **CRO Risk Review \- GBP Sleeve**
 
-**Scope:** All positions where Currency \= GBP, derived from the \<open\_positions\> dataset and validated against \<pivot\_summary\>. [\[ai\_prompt\_combined | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?web=1), [\[ai\_prompt\_...mbined.txt | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt)
+**Scope:** All positions where Currency \= GBP, derived from the `<open_positions>` dataset and validated against `<pivot_summary>`. [\[ai\_prompt\_combined | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?web=1), [\[ai\_prompt\_...mbined.txt | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt)
 
 ## **1\. Executive Summary**
 
@@ -1601,7 +1601,7 @@ Sorted by USD Value (largest first).
 | 4 | Forex | GBP Cash | \- | 1,574.10 GBP | 24.24 | 0.05% | 0.00 |
 | 5 | NWG 18SEP26 5 P | NatWest Put Option | \-1 | \-17.50 GBP | \-23.18 | \-0.05% | \+0.65 |
 
-Source data reconciles to the GBP positions contained within \<open\_positions\>. [\[ai\_prompt\_combined | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?web=1), [\[ai\_prompt\_...mbined.txt | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt)
+Source data reconciles to the GBP positions contained within `<open_positions>`. [\[ai\_prompt\_combined | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?web=1), [\[ai\_prompt\_...mbined.txt | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt)
 
 ---
 
@@ -1776,7 +1776,7 @@ The GBP sleeve's net gain of approximately **\+$822.57** is largely attributable
 
 ### **Validation Against Pivot Summary**
 
-The GBP positions appear individually in \<open\_positions\>, while \<pivot\_summary\> reports the same underlying securities and FX balances. The summed GBP sleeve value derived from the position-level data is:
+The GBP positions appear individually in `<open_positions>`, while `<pivot_summary>` reports the same underlying securities and FX balances. The summed GBP sleeve value derived from the position-level data is:
 
 * **Total Sleeve MV calculated from open\_positions:** **$46,669.49**  
 * **Total Portfolio MV stated in pivot\_summary:** **$2,634,512.20**  
@@ -2107,7 +2107,7 @@ Here is your exact Interactive Brokers (IBKR) order limit matrix based on where 
 
 When you see Hermès form a clear technical floor (e.g., a strong green reversal candle on the daily chart) within your **€1,380–€1,450 target corridor**, execute this exact sequence to monetize your insurance:
 
-1. **Open the Order Entry Ticket**: Select your open RMS 18DEC26 1520 P position.  
+1. **Open the Order Entry Ticket**: Select your open `RMS 18DEC26 1520 P` position.  
 2. **Action**: Set to **SIDE: SELL** (this will generate a *Sell to Close* order).  
 3. **Quantity**: **5** contracts.  
 4. **Order Type**: **LMT (Limit)**. *Never use a Market order on European luxury options due to wide bid-ask spreads.*  
@@ -2331,7 +2331,7 @@ If you'd like to adjust these setups, let me know:
 
 *   
 * Would you prefer a **tighter delta call overwrite** if your primary goal is turning this position into an immediate cash generator?  
-* Do you want to run **/recommend action** on **NVDA** or **BABA** to map out complementary hardware/foundry supply-chain hedges?  
+* Do you want to run **`/recommend action`** on **NVDA** or **BABA** to map out complementary hardware/foundry supply-chain hedges?  
 * 
 
 # AMZN
@@ -2388,7 +2388,7 @@ Because the **IV Rank is sitting near the 99th percentile**, option pricing is d
 If you'd like to proceed, tell me:
 
 *   
-* Do you want to run **/recommend action** on your other tech exposures like **GOOG** or **META** to look for similar premium setups?  
+* Do you want to run **`/recommend action`** on your other tech exposures like **GOOG** or **META** to look for similar premium setups?  
 * What **exact expiration date** or delta preference do you prefer for setting up your next covered call loop?  
 * 
 
