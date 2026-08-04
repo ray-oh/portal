@@ -1,3 +1,140 @@
+# Trades exploration
+
+As of 3 AUG 2026:
+
+Here is your comprehensive Master Action Blueprint and Summary Verdicts for all ten positions across your portfolio over the coming weeks.
+
+---
+
+## 🚨 August 2026 High-Alert Earnings Calendar
+
+Mark these critical corporate announcement dates in your calendar, as they will trigger massive **Implied Volatility (IV) crushes** that will automatically deflate your short option liabilities:
+
+* **August 5, 2026 (Wednesday):** Paycom Software Inc. (**PAYC**) Earnings  
+* **August 8, 2026 (Saturday):** Berkshire Hathaway Inc. (**BRK.B**) Earnings  
+* **August 24, 2026 (Monday):** PDD Holdings Inc. (**PDD**) Earnings
+
+---
+
+## 📋 Position-by-Position Action Blueprint
+
+## **1\. UnitedHealth Group (UNH) — $417.45**
+
+* **Summary Verdict:** **HOLD.** Your 200 long shares are highly profitable, and your multi-expiration options overlay is decaying efficiently in your favor.  
+* **Actions to Note:**  
+  * **Monitor the $430.00 Upside Trigger:** If UNH clears immediate technical resistance and crosses $430, look to roll your **18DEC26 $440 Call** up and out to a mid-2027 $460 strike to prevent your shares from being assigned early.  
+  * **Keep Cushion Cash Reserved:** Maintain **$72,000.00** in your account to comfortably fund the two short puts ($360 strikes) if a macro health-sector correction occurs.
+
+## **2\. GE HealthCare (GEHC) — $69.80**
+
+* **Summary Verdict:** **HOLD.** Your three-leg June 2027 risk reversal structure was opened for a net credit and is capturing massive post-earnings intrinsic value on the long $65 Call. Do *not* initiate another position on this stock right now.  
+* **Actions to Note:**  
+  * **Let Theta Burn:** Do nothing over the next few weeks. Time decay will naturally begin eroding your short $57.50 Put and short $80.00 Call liabilities.
+
+## **3\. Copart (CPRT) — $29.84**
+
+* **Summary Verdict:** **HOLD Puts & Shares, Monitor Calls.** Your 1,100 shares are generating solid capital gains, but your short option overlay is structurally imbalanced (6 calls vs. 5 puts).  
+* **Actions to Note:**  
+  * **Monitor the $31.50 Call Trigger:** If CPRT continues its upward momentum toward $31.50, prepare to roll your **18SEP26 $32.50 Calls** out to January 2027 to protect 600 of your shares from being called away.  
+  * **Optional Balance Play:** To fix the contract mismatch, consider selling **one additional 18SEP26 $25.00 Put** on the next sharp down-day to balance your portfolio Greeks.
+
+## **4\. Berkshire Hathaway (BRK.B) — $517.40**
+
+* **Summary Verdict:** **HOLD THROUGH EARNINGS (AUG 8).** Implied volatility is heavily pumped ahead of Saturday's report. Do not buy back options today; let the post-earnings IV crush melt premiums on Monday morning, August 10\.  
+* **Actions to Note:**  
+  * **The Scenario A Post-Earnings Roll:** On August 10, if the stock pops above $522, execute a net-credit roll on your **18SEP26 $520 Call** out to a **January 2027 $540 Call** to avoid share assignment and lift your profit ceiling.
+
+## **5\. Amazon (AMZN) — $283.99**
+
+* **Summary Verdict:** **REVISED STRATEGY ACTIVE.** Capitalize on the historic post-earnings breakout to $283.99 using a refined, patient approach.  
+* **Actions to Note:**  
+  * **Strategy 1 (Today):** Deploy a covered call overlay by selling **1 Contract of the Sept 18, 2026 $295 Call** (upped from $285 to avoid immediate assignment). This harvests rich post-earnings premium while leaving 200 shares fully unhedged to run.  
+  * **Strategy 2 (Next Week):** Do *not* sell puts on a massive green breakout day. Wait 3–5 sessions for an IV crush and a technical pull-back toward $272–$275 before selling the **Sept 18, 2026 $245 Cash-Secured Put**.
+
+## **6\. Meta Platforms (META) — $592.35**
+
+* **Summary Verdict:** **HOLD.** Today's massive \+6.40% surge has significantly shrunk the intrinsic liability of your short In-The-Money (ITM) **15JAN27 $640 Put**.  
+* **Actions to Note:**  
+  * **The $610 Put-Roll Trigger:** If the rally continues and META clears $610, look to buy back and close the Jan27 $640 Put early, simultaneously selling a **Jan27 $580 or $600 Put** to lock in a significantly safer downside entry cap.
+
+## **7\. Imperial Brands (IMB) — 2,789.00 GBX (£27.89)**
+
+* **Summary Verdict:** **PASSIVE HOLD.** Your 1,000 London-listed shares are 100% covered and perfectly insulated by your **18DEC26 3,000 GBX Call**.  
+* **Actions to Note:**  
+  * **Capture the Dividend:** Hold completely still through **August 20, 2026 (Ex-Dividend Date)** to lock in your high-yield, 5.86% gross quarterly distribution payout.
+
+## **8\. Paycom Software (PAYC) — $170.00**
+
+* **Summary Verdict:** **HOLD THROUGH EARNINGS (AUG 5), PREPARE ROLL.** Your long stock is underwater at a $216 cost basis, but your out-of-the-money August 21 options ($145P and $200C) are perfectly positioned to exploit the impending post-earnings IV crush.  
+* **Actions to Note:**  
+  * **The August 24 Roll Phase:** Let your August options expire worthless on August 21\. On Monday morning, August 24, initiate Phase 2 of your Basis-Reduction Engine by selling a fresh, wide **September 18, 2026 Covered Strangle ($150 Put / $200 Call)** to shave your effective cost basis down toward $206.30.
+
+## **9\. SAP SE (SAP) — €168.08**
+
+* **Summary Verdict:** **ACTIVE UNWIND OF RATIO SPREAD.** Your short September €195 calls have collapsed by 88% to €1.01. Leaving them open exposes you to naked upside risk for almost no remaining financial reward.  
+* **Actions to Note:**  
+  * **Execute Immediate Closing Order (August 4-5):** Submit a multi-leg closing transaction inside your Interactive Brokers workstation to **Sell 1x Sept €175 Call** and **Buy to Close 2x Sept €195 Calls**. This extracts a net credit of \~€1.55 per share and leaves your core 100 shares free to recover unencapped.  
+  * **Leave December Puts Alone:** Leave your **Short 2x 18DEC26 €190 Puts** completely untouched to act as an accumulation buffer.
+
+## **10\. PDD Holdings (PDD) — $89.69**
+
+* **Summary Verdict:** **PASSIVE HOLD THROUGH EARNINGS (AUG 24).** Your November and December call spreads are safely out-of-the-money and their short legs are bleeding premium, while your **Short 4x 18DEC26 $90 Puts** are sitting slightly in-the-money.  
+* **Actions to Note:**  
+  * **Do Not Roll Long Calls Now:** You have 109 days left until your November expiry. Rolling your long calls at a cyclical technical low destroys capital. Hold them into October when the high-volume Chinese **Singles' Day (11.11)** shopping festival catalyst begins to build momentum.
+
+---
+
+## 🛡️ Master Capital & Liquidity Reservation Check
+
+Your options strategy relies heavily on selling out-of-the-money puts to lower your stock entry points. To prevent a systemic margin squeeze or forced liquidations during an unexpected broad market correction, ensure your brokerage account has the following **unencumbered cash or margin blocks locked and reserved** over the next few weeks:
+
+$$\\text{UNH Puts (\\$360 Strike \\times 2)} \= \\$72,000.00$$
+
+$$\\text{GEHC Put (\\$57.50 Strike \\times 1)} \= \\$5,750.00$$
+
+$$\\text{CPRT Puts (\\$25.00 Strike \\times 5)} \= \\$12,500.00$$
+
+$$\\text{BRK.B Put (\\$495 Strike \\times 1)} \= \\$49,500.00$$
+
+$$\\text{META Puts (\\$640 \\times 1 \+ \\$460 \\times 1)} \= \\$110,000.00$$
+
+$$\\text{PAYC Puts (\\$145 Strike \\times 2)} \= \\$29,000.00 \\rightarrow \\text{(Rolling to \\$30k in Sept)}$$
+
+$$\\text{SAP Puts (€190 Strike \\times 2)} \= \\text{€38,000.00 (approx. \\$41,500.00 USD)}$$
+
+$$\\text{PDD Puts (\\$90 Strike \\times 4)} \= \\$36,000.00$$
+
+$$\\mathbf{\\text{Total Dedicated Strategic Cash Cushion Required: } \\approx \\$356,250.00 \\text{ USD}}$$
+
+Given your robust **$475.7k USD equivalent sidelines cash reserve**, your portfolio is incredibly well-capitalized to absorb these obligations, leaving you with an unencumbered liquid buffer of roughly **\+$119,450.00** to deploy safely on late-autumn pullbacks.
+
+---
+
+Would you like me to generate the **exact option order tickers** for the upcoming SAP September spread unwind or the PAYC August 24 roll execution to streamline your platform entry?
+
+\-1 IMB Dec18’26 3000 C at 90.0
+
+- IMB cost at 3075
+
+\-2 NVO Jan15’27 45 P at 3.5
+
+\-4 BHP Dec18’26 95 C at 3.6
+
+\-1 UNH Jan15’27 360 P at 13.3
+
+\-2 NVO Aug28’26 55 C at 1.1
+
+\-6 CPRT Sep18'26 32.5C is at 0.25 to 0.35.   
+\-5 CPRT Sep18'26 25P is at 0.6 to 0.7. 
+
+Late July 2026 (Launch Phase): Sell the September contracts outlined above. Immediately route the $1,015.00 premium credit to purchase 37 fractional shares of CPRT at the market price of $27.17. Your share count climbs from 1,100 to 1,137 shares.  
+August 1, 2026 (The Guardrails Check): Jay Adair assumes control as solo CEO. Observe the price action. If the stock establishes a technical floor, prepare to deploy your next intentional cash tranche.  
+September 3–9, 2026 (Earnings Release Window): Copart reports Q4 Earnings. Implied Volatility will sharply collapse the next morning (the "IV Crush").  
+September 18, 2026 (Options Expiration & Re-Balancing):  
+Scenario A (Stock above $25): The Puts expire worthless. You retain your 1,137 shares and deploy your next cash tranche directly to manually buy 300 market shares.  
+Scenario B (Stock below $25): You absorb the 600 assigned shares. Your count hits 1,737 shares.  
+Late September 2026 (The Cycle Repeats): Look out to the December 2026 options chain. Sell 5 new Covered Calls against your expanded inventory and write 6 more Puts down at a $22.00 or $23.00 strike to capture the next wave of compounding premium credit.
+
 # UNH and GEHC
 
 ![][image1]  
@@ -272,6 +409,39 @@ If you want the exact directional profit profile of owning 100 shares of stock t
 
 Which of these structural evolutions matches your capital preference: **buying the physical stock outright today** using your option profits, or **removing the $80 cap to let the synthetic position ride** \[text\]?
 
+Strategic If-Then Action Plan
+
+Instead of forcing a trade today, use this reactive blueprint to manage your GEHC exposure efficiently:
+
+                 \[ Monitor GEHC Market Action \]
+
+                                │
+
+        ┌───────────────────────┴───────────────────────┐
+
+        ▼                                               ▼
+
+\[ If GEHC Pulls Back to $62 \- $64 \]             \[ If GEHC Rallies to \>$78 \]
+
+        │                                               │
+
+        ▼                                               ▼
+
+     BUY SHARES OR DEPLOY LEGS                       TAKE PROFIT ON EXISTING
+
+• Sell an additional $60 Put.                   • Close the Long $65 Call leg early.
+
+• Take advantage of higher margin safety.       • Lock in 85%+ of maximum structural gains.
+
+---
+
+🛡️ Alternative Portfolio Actions to Consider
+
+1. **Keep Cash Compounding:** Leave your extra capital in high-yield cash equivalents yielding 4–5%. This ensures you have ready liquidity to fund your existing UNH and GEHC short put assignment obligations ($72,000 and $5,750 respectively) if a sudden market crash occurs.  
+2. **Diversify Outside Healthcare:** Look to allocate capital into sectors that have a low or negative correlation with healthcare (such as Technology, Energy, or Consumer Staples) to smooth out your equity curve.
+
+---
+
 # UNH holdings
 
 ## **UNH (UnitedHealth Group)**
@@ -451,6 +621,189 @@ When you log into your terminal in October, apply these exact tactical filters:
 * 
 
 I can set a reminder to update you on the **exact December 2027 option chain pricing** once we enter October to calculate your precise target strikes. How does that timeline sound?
+
+As of August 2026, **UnitedHealth Group Inc. (NYSE: UNH)** is trading in a short-term consolidation phase around **$417.45**, positioning it directly between tightly defined key support and resistance zones. \[1, 2, 3\]
+
+---
+
+## 🛡️ Critical Support Levels
+
+*   
+* **$411.29 – $414.00 (Immediate Support):** This zone aligns with the recent 1-month low and the pivot point first support level (S1), where buyers have consistently stepped in over the last few sessions. \[3\]  
+* **$403.53 (Strong Intermediate Support):** A proven double-strength support floor. Dropping below this level would signal a short-term bearish trend reversal. \[2\]  
+* **$396.59 (Major Macro Support):** Aligns with the 40-day moving average stall point. This acts as the ultimate line of defense for the medium-term uptrend. \[1, 3\]  
+* 
+
+---
+
+## 🛑 Key Resistance Levels
+
+*   
+* **$422.81 – $426.72 (Immediate Resistance):** The local high and a triple-strength resistance band. The stock needs a clean daily close above this cluster to regain immediate bullish momentum. \[2, 3, 4\]  
+* **$437.00 (Major Structural Barrier):** A historical peak zone and key psychological boundary. Breaking past this level opens the door for an aggressive rally. \[4\]  
+* **$461.62 (52-Week High):** The absolute ceiling. This represents major supply where heavy profit-taking occurred during the last major rally. \[3, 5\]  
+* 
+
+---
+
+## 🎯 Price Targets (Short & Long Term)
+
+| Target Type | Price Level | Timeframe / Catalyst | Source |
+| :---- | :---- | :---- | :---- |
+| **Short-Term Technical Target** | **$437.00** | Next 1–3 weeks (on a $426 breakout) | [Investtech Analysis](https://www.investtech.com/main/market.php?CompanyID=10100046) |
+| **Consensus 12-Month Target** | **$455.92** | 1-Year Wall Street Average (+9.21% Upside) | [MarketBeat Forecast](https://www.marketbeat.com/stocks/NYSE/UNH/forecast/) |
+| **Institutional Bull Target** | **$466.00** | Mid-2027 Outlook (Overweight Rating) | [JPMorgan Reset](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resets-unitedhealth-stock-target-090300908.html) |
+| **Macro Optimistic Target** | **$516.60** | Extended Bull Case Scenario | [Alpha Spread](https://www.alphaspread.com/security/nyse/unh/analyst-estimates) |
+
+---
+
+## 📉 Technical Indicators Summary
+
+*   
+* **Trend Momentum:** **Neutral**; the stock has temporarily broken below its medium-term rising channel, shifting into a horizontal, range-bound consolidation pattern.  
+* **RSI (14-Day):** **46.95**, indicating the stock is neither overbought nor oversold, leaving room for a move in either direction.  
+* **Moving Averages:** **Mixed**; short-term EMAs (5, 10, 20-day) are flashing minor sell signals, while the long-term 100-day and 200-day moving averages (tracking below $370) remain firmly bullish. \[1, 2, 4, 6\]  
+* 
+
+---
+
+Would you like me to map out a **specific swing-trade scenario** with exact risk-to-reward stop losses, or evaluate the **fundamental earnings data** driving these Wall Street price targets?
+
+Your net position is an **integrated covered strangle** with an aggregate net unrealized profit of **\+$18,855.00**.
+
+You are structurally **long and bullish** via 200 shares of UNH, while using a multi-expiration option overlay to generate extra premium and establish dynamic buy/sell targets.
+
+---
+
+## 💵 Net Portfolio Valuation
+
+*   
+* **Total Equity Value:** $77,314.00 (Market value of shares minus option liabilities)  
+* **Shares Capital Gain:** **\+$18,972.00** (Up 29.45% from your $322.14 cost basis)  
+* **Net Options Performance:** **\-$117.00** (The Dec '26 call decay is offsetting short put mark-to-market losses)  
+* **Total Unrealized Profit:** **\+$18,855.00**  
+* 
+
+---
+
+## 🔍 Risk Exposure Breakdown by Leg
+
+## **1\. Short Covered Call: 18DEC26 $440 C**
+
+*   
+* **Strategic Role:** Sets a profit-taking cap at $440.00.  
+* **Current Status:** **Out-of-the-Money (OTM)** by 5.5%. You have captured **$367.00** in time-decay profit.  
+* **Risk Note:** If UNH clears $440 by December, 100 of your shares will be called away. This locks in an additional **\+$11,786.00** in stock gains plus the full $2,601.00 original premium.  
+* 
+
+## **2\. Short Cushion Puts: 15JAN27 $360 P & 17JUN27 $360 P**
+
+*   
+* **Strategic Role:** Acts as a commitment to buy more shares if UNH drops significantly.  
+* **Current Status:** Both options are safely **OTM by 13.7%**. They show a combined temporary paper loss of **\-$484.00** due to implied volatility fluctuations or early-stage time metrics.  
+* **Risk Note:** If UNH breaks below your **$360.00 macro support line**, you will be forced to buy up to 200 more shares. Your effective entry points would be heavily discounted at **$347.81** and **$338.51** respectively after accounting for the original premiums.  
+* 
+
+---
+
+## 📉 Expiration P\&L Boundary Diagram
+
+The chart below maps out your combined portfolio profit profile across different UNH price levels at the nearby **December 2026 expiration** boundary.
+
+---
+
+## 🛡️ Core Blind Spots & Structural Risks
+
+*   
+* **Assignment Volatility:** If UNH experiences an aggressive macro downturn, you face compounding downside. You will lose value on your 200 core shares while simultaneously being forced to deploy cash to buy 200 more shares at $360.  
+* **Margin & Cash Requirement:** Ensure your account has **$72,000 in unencumbered cash** or equivalent margin capacity to fulfill the purchasing obligations of the two short puts if they are exercised.  
+* **Upside Cap Limit:** If UNH enters an explosive bull run past $440, 100 shares are locked down. You only participate in uncapped upside on your remaining 100 unhedged shares.  
+* 
+
+---
+
+Would you like to analyze how a sudden **spike in implied volatility** would impact your short options, or model your exact **breakeven points** if UNH drops through support?
+
+*\# Data validation and precise calculation check*
+
+unh\_shares\_pnl \= 200 \* (417.00 \- 322.14)
+
+call\_pnl \= \-1.0 \* (22.34 \- 26.01) \* 100 *\# Multiplier 100 for options*
+
+put1\_pnl \= \-1.0 \* (14.05 \- 12.19) \* 100
+
+put2\_pnl \= \-1.0 \* (24.47 \- 21.49) \* 100
+
+total\_unrealized\_pnl \= unh\_shares\_pnl \+ call\_pnl \+ put1\_pnl \+ put2\_pnl
+
+print(f"Shares P\&L: {unh\_shares\_pnl}")
+
+print(f"Call P\&L: {call\_pnl}")
+
+print(f"Put 1 P\&L: {put1\_pnl}")
+
+print(f"Put 2 P\&L: {put2\_pnl}")
+
+print(f"Total Portfolio P\&L: {total\_unrealized\_pnl}")
+
+Based on UNH’s current price of **$417.45**, your short **18DEC26 $440 Call** is **Out-of-the-Money (OTM) by 5.4%** and currently showing a **\+$367.00 profit**.
+
+With **137 days remaining** until expiration, the optimal strategic action is to **HOLD the position**.
+
+---
+
+## 📋 Strategy Evaluation Matrix
+
+| Action | Financial Impact | Strategic Recommendation |
+| :---- | :---- | :---- |
+| **HOLD** | • Leaves **$2,234.00** in remaining premium to capture via time decay. • Aligns with UNH's strong resistance zone ($422–$426). | **Highly Recommended.** It protects your shares from being called away too early while time decay accelerates in your favor over the next 60 days. |
+| **CLOSE** | • Locks in a modest **$367.00** gain. • Costs $2,234.00 in cash outlay to buy back the contract. | **Not Recommended.** You leave 85% of the potential premium on the table and strip away your portfolio's current downside hedge. |
+| **ROLL** | • Rolling **Up** decreases your immediate premium income. • Rolling **Out** extends your time horizon unnecessarily. | **Premature.** Rolling should only be executed if UNH aggressively breaks past $430 and threatens your strike level. |
+
+---
+
+## 🛠️ Step-by-Step Execution Plan
+
+                  \[ Current UNH Price: $417.45 \]
+
+                                 │
+
+                                 ▼
+
+                     ┌───────────────────────┐
+
+                     │ HOLD Strategy Active  │
+
+                     └───────────┬───────────┘
+
+                                 │
+
+        ┌────────────────────────┴────────────────────────┐
+
+        ▼                                                 ▼
+
+\[ If UNH Rallies to \>$430 \]                     \[ If UNH Drops or Stagnates \]
+
+        │                                                 │
+
+        ▼                                                 ▼
+
+ROLL UP & OUT to mid-2027                       DO NOTHING. Let time decay
+
+(Lock in higher stock upside)                   erode the option value to zero.
+
+---
+
+## 🚨 Critical Triggers to Watch
+
+To maximize the efficiency of this covered call, monitor these specific technical price alerts on UNH:
+
+* **The Upside Roll Trigger ($430.00):** If UNH breaks above immediate technical resistance ($426.72) and clears $430, do not wait for expiration. Roll the contract out to a **June 2027 $460 or $470 Call** to capture higher capital gains on your 100 shares.  
+* **The Downside Support Break ($403.00):** If UNH collapses below its strong intermediate support floor, the $440 Call value will crash toward $0. Use that sharp drop to **buy back the call for pennies** (e.g., under $3.00), locking in full profit early.
+
+---
+
+Would you like me to calculate your **exact annualized yield** if you hold this option to expiration, or model the **net portfolio impact** if UNH climbs past $440 in December?
 
 # CPRT strategy
 
@@ -846,6 +1199,47 @@ If you want to prepare your portfolio for the event, let me know if I should:
 * Outline the **exact timestamp timeline** of how an earnings afternoon unfolds (Press Release vs. SEC Filing vs. Live Call)  
 * Calculate the market's current **"Implied Move"** percentage to see how big of a swing option traders are pricing in  
 * Review the **historical transcripts** of Jay Adair's past Q4 earnings calls to identify his favorite operational metrics
+
+Based on Copart’s current trading price of **$29.84**, your portfolio is in an excellent position. Your long stock is up, your puts are decaying profitably, and your calls are well-insulated.
+
+The optimal strategic recommendation is to **HOLD the puts and the shares**, but **actively prepare to manage the $32.50 calls** if CPRT's momentum continues.
+
+---
+
+## 📋 CPRT Option Action Matrix
+
+| Option Leg | Current Status | Recommended Action | Strategic Rationale |
+| :---- | :---- | :---- | :---- |
+| **18SEP26 $25.00 Put** *(Short 5\)* | • **OTM by 16.2%** • 49% profit captured | **HOLD** | Let time decay (theta) strip the remaining $0.32 of value. There is no structural reason to buy this back early unless it drops under $0.10. |
+| **18SEP26 $32.50 Call** *(Short 6\)* | • **OTM by 8.9%** • Paper loss of $1.89 | **HOLD / MONITOR** | The stock just jumped to $29.84, inflating the premium to $0.60. Do not panic-close it; let it hit technical resistance first. |
+
+---
+
+## 🛠️ Step-by-Step Execution Plan
+
+                   \[ Monitor CPRT at $29.84 \]  
+                                │  
+        Target Trigger A ───────┼─────── Target Trigger B  
+        ▼                               ▼  
+ \[ If CPRT Rallies to \>$31.50 \]    \[ If CPRT Drops to \<$27.50 \]  
+        │                               │  
+        ▼                               ▼  
+   ROLL CALLS UP & OUT             LEAVE ALONE / LET DECAY  
+ • Move Sept $32.50 C to          • Puts will expire at $0.  
+   Jan 2027 $35 or $37.50 C.       • Calls will bleed premium.  
+ • Avoid losing 600 shares.       • Re-evaluate at mid-Sept.
+
+---
+
+## 🛡️ Critical Portfolio Adjustments & Blind Spots
+
+* **Address the Contract Mismatch:** You are currently short 6 calls but only 5 puts. If you want a perfectly symmetrical covered strangle, look to sell **one additional 18SEP26 $25.00 Put** on the next red day to pick up extra premium and balance your portfolio Greeks.  
+* **The "Called Away" Scenario:** If you choose to do nothing and CPRT clears $32.50 in September, 600 of your shares will be sold at $32.50. This is actually a fantastic problem to have: it locks in a **\+19.6% capital gain** on those shares from your $27.17 cost basis, while leaving your other 500 shares free to capture unlimited upside.  
+* **Capital Reservation:** Keep **$12,500 in cash** set aside in your account. If the auto-auction sector takes a unexpected macro hit and CPRT falls below $25, you must be ready to absorb those 500 additional shares without triggering a margin call.
+
+---
+
+Would you like me to run a **combined portfolio risk analysis** across your UNH, GEHC, and CPRT positions to show your total cash-assignment exposure, or calculate your **exact net yield** if all these options expire worthless in September?
 
 # HK Position Strategy
 
@@ -1787,31 +2181,6 @@ The GBP positions appear individually in `<open_positions>`, while `<pivot_summa
 
 **Sources:** [ai\_prompt\_combined.txt](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?EntityRepresentationId=458b747f-31da-4f50-a6ef-3301adf589bf). [\[ai\_prompt\_combined | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt?web=1), [\[ai\_prompt\_...mbined.txt | Txt\]](https://christiandior-my.sharepoint.com/personal/roh_christiandior_com/Documents/Documents/ai_prompt_combined.txt)
 
-# Trades exploration
-
-\-1 IMB Dec18’26 3000 C at 90.0
-
-- IMB cost at 3075
-
-\-2 NVO Jan15’27 45 P at 3.5
-
-\-4 BHP Dec18’26 95 C at 3.6
-
-\-1 UNH Jan15’27 360 P at 13.3
-
-\-2 NVO Aug28’26 55 C at 1.1
-
-\-6 CPRT Sep18'26 32.5C is at 0.25 to 0.35.   
-\-5 CPRT Sep18'26 25P is at 0.6 to 0.7. 
-
-Late July 2026 (Launch Phase): Sell the September contracts outlined above. Immediately route the $1,015.00 premium credit to purchase 37 fractional shares of CPRT at the market price of $27.17. Your share count climbs from 1,100 to 1,137 shares.  
-August 1, 2026 (The Guardrails Check): Jay Adair assumes control as solo CEO. Observe the price action. If the stock establishes a technical floor, prepare to deploy your next intentional cash tranche.  
-September 3–9, 2026 (Earnings Release Window): Copart reports Q4 Earnings. Implied Volatility will sharply collapse the next morning (the "IV Crush").  
-September 18, 2026 (Options Expiration & Re-Balancing):  
-Scenario A (Stock above $25): The Puts expire worthless. You retain your 1,137 shares and deploy your next cash tranche directly to manually buy 300 market shares.  
-Scenario B (Stock below $25): You absorb the 600 assigned shares. Your count hits 1,737 shares.  
-Late September 2026 (The Cycle Repeats): Look out to the December 2026 options chain. Sell 5 new Covered Calls against your expanded inventory and write 6 more Puts down at a $22.00 or $23.00 strike to capture the next wave of compounding premium credit.
-
 # Bonds
 
 **U.S. Treasury bond yields are trading near multi-month highs, with the benchmark 10-year Treasury note hovering around 4.66% and the 30-year bond climbing above 5.15%.** Yields have faced strong upward pressure due to escalating geopolitical tensions in the Middle East, persistent inflation worries, and reduced market expectations for Federal Reserve interest rate cuts. \[1, 2, 3, 4, 5\]
@@ -2276,6 +2645,52 @@ TIME IN FORCE (TIF): DAY
 
 Would you like me to calculate your revised **exact XIRR and annualized yield profile** based on this adjusted $520 capital upside target to see how it shifts your total portfolio benchmark?
 
+The optimal strategic recommendation for your **Berkshire Hathaway (BRK.B)** options ahead of the **August 8 Q2 earnings release** is to **HOLD both legs through the announcement**, then execute a tactical adjustment on Monday, August 10\.
+
+Because you are selling options, the post-earnings **Implied Volatility (IV) crush** will work heavily in your favor, rapidly deflating the premium of both contracts.
+
+---
+
+## 📋 BRK.B Options Action Matrix
+
+| Option Leg | Current Status | Recommended Action | Strategic Rationale |
+| :---- | :---- | :---- | :---- |
+| **18SEP26 $520.00 Call** *(Short 1\)* | • **OTM by a slim 0.5%** • Retains $8.73 premium | **HOLD THROUGH EARNINGS** | Do not buy it back now when premium is inflated by pre-earnings anxiety. Let the IV crush melt the premium on Monday before making a decision. |
+| **18SEP26 $495.00 Put** *(Short 1\)* | • **OTM by 4.3%** • Trailing below $500 floor | **HOLD TO EXPIRATION** | This leg is structurally safe. Post-earnings, this put will rapidly bleed value toward $0.00, allowing you to harvest full profit. |
+
+---
+
+## 🛠️ Post-Earnings Step-by-Step Execution Plan
+
+Monitor Berkshire's market reaction on Monday morning, August 10, and execute the corresponding path below:
+
+                     \[ Post-Earnings Reaction (Aug 10\) \]  
+                                      │  
+         ┌────────────────────────────┼────────────────────────────┐  
+         ▼                            ▼                            ▼  
+  \[ SCENARIO A: POP \]          \[ SCENARIO B: FLAT \]         \[ SCENARIO C: DROP \]  
+   Stock breaks \>$522           Stock range-bound $510-$520   Stock drops \<$505  
+         │                            │                            │  
+         ▼                            ▼                            ▼  
+ ┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐  
+ │   ROLL CALL UP/OUT   │     │      DO NOTHING      │     │  BUY BACK CALL EARLY │  
+ └──────────────────────┘     └──────────────────────┘     └──────────────────────┘  
+ • Roll Sept $520 C to        • Let time decay (theta)     • Call will crash down  
+   Jan 2027 $540 Call.          melt both options.           to under $2.50.  
+ • Avoid assignment.          • Keep capturing premium     • Close for 70%+ gain.  
+ • Capture higher upside.       risk-free.                 • Keep shares & short put.
+
+---
+
+## 🛡️ Tactical Execution Details
+
+1. **How to Roll if Scenario A Occurs:** If earnings blow past estimates and the stock clears $522, execute a "Net Credit Roll". Simultaneously buy back your Sept $520 Call and sell a **January 2027 $540 Call**. This defers your tax liability, avoids share assignment, and lifts your profit ceiling by an extra $2,000 on your core shares.  
+2. **Capital Reservation Confirmation:** Ensure your brokerage account has **$49,500.00** in unencumbered cash or free margin. In the unlikely event that Scenario C becomes an aggressive market-wide selloff dragging Berkshire below $495, you must be capitalized to absorb a second block of 100 shares at a net cost basis of $490.02.
+
+---
+
+Would you like me to calculate your **exact net portfolio delta** to see how sensitive your entire multi-stock book is to a market-wide correction, or draft the **exact option order tickets** for the January roll?
+
 # TSM
 
 **TSM has skyrocketed to $419.64 USD**, driven by an institutional upgrade to its full-year 2026 revenue guidance to **slightly above 40% year-over-year growth** (up from 30%). This structural surge follows record-breaking Q2 earnings and the accelerated pricing power of its incoming **2-nanometer (N2) manufacturing platform**. \[1, 2, 3, 4\]
@@ -2392,6 +2807,70 @@ If you'd like to proceed, tell me:
 * What **exact expiration date** or delta preference do you prefer for setting up your next covered call loop?  
 * 
 
+Both strategies are structurally sound but carry radically different risk profiles given that **Amazon (NASDAQ: AMZN)** has already gapped up heavily to **$283.99**. \[1\]
+
+Implementing **Strategy 1 is highly efficient** for immediate monetization, while **Strategy 2 requires caution** as selling a put immediately after an explosive $12+ green gap-up exposes your sidelines cash to buying into a potential short-term top.
+
+---
+
+## 📊 Strategy Comparison Matrix
+
+| Metric | Strategy 1: Short $285 Covered Call (1 Contract) | Strategy 2: Short $245 Cash-Secured Put (1 Contract) |
+| :---- | :---- | :---- |
+| **Current Stock Price** | $283.99 (Sitting right below the proposed strike) | $283.99 (Sitting 13.7% above the proposed strike) |
+| **Underlying Exposure** | Covers 100 shares out of your 300-share core block. | Commits your cash to purchase 100 *additional* shares. |
+| **Primary Risk** | High probability of 100 shares getting called away. | Catching a falling knife if a post-earnings pullback occurs. |
+| **Capital Required** | **$0.00** (Backed entirely by your existing 300 shares). | **$24,500.00** (Earmarked from your $475.7k USD cash pile). |
+| **Strategic Verdict** | **GREEN LIGHT** (Excellent risk-managed income generation) | **YELLOW LIGHT** (Good levels, but execution timing is sub-optimal) |
+
+---
+
+## 🔍 Deep-Dive Assessment
+
+## **Strategy 1: The Post-Earnings Covered Call Overlay**
+
+*   
+* **The Good:** Selling only 1 contract against your 300 shares is an excellent tactical choice. It leaves 200 shares fully unhedged to ride the macro wave to Wall Street's $300+ targets, while 100 shares capture the extreme post-earnings implied volatility premium.  
+* **The Caveat:** The $285 strike is **dangerously close** (only 0.35% away from current trading levels). With the stock exhibiting strong upward momentum, expect this contract to go In-the-Money (ITM) quickly. \[1\]  
+* **Refinement:** If you do not want to lose 100 shares by mid-September, bump the strike slightly out of harm's way to **$295 or $300**, allowing your shares to capture an extra $1,000–$1,500 in capital appreciation while still harvesting rich post-earnings premium.  
+* 
+
+## **Strategy 2: Defensive Cash-Secured Put Split**
+
+*   
+* **The Good:** Structurally, the $245 strike is phenomenal. It targets a clear macro consolidation pocket, sitting comfortably below the previous multi-month resistance-turned-support layer. Your $475.7k cash buffer easily absorbs the $24,500 collateral obligation without creating margin stress.  
+* **The Caveat:** Executing this today violates a core options rule: **never sell puts on the day of a massive green breakout**. Implied volatility expands rapidly during the upward spike, but over the next 48–72 hours, an "IV crush" will occur, naturally deflating option values.  
+* **Refinement:** Wait 3 to 5 trading sessions. Let the initial post-earnings buying euphoria cool down. If AMZN experiences a minor technical retracement back toward $275, sell the $245 put then. You will secure a much safer entry point with less risk of immediate downside delta damage.  
+* 
+
+---
+
+## 📉 Combined Portfolio Risk Curve (If Both Initiated)
+
+The visual layout below displays your net risk profile if you execute both trades simultaneously, transforming your allocation into an active covered strangle layout.
+
+---
+
+## 🛠️ Step-by-Step Portfolio Execution Blueprint
+
+To deploy these strategies optimally without chasing the post-earnings spike, follow this execution timeline:
+
+                         \[ Current Action: AMZN at $283.99 \]  
+                                          │  
+                  ┌───────────────────────┴───────────────────────┐  
+                  ▼                                               ▼  
+     \[ TODAY: Deploy Strategy 1 \]                    \[ NEXT WEEK: Deploy Strategy 2 \]  
+                  │                                               │  
+                  ▼                                               ▼  
+       SELL 1x SEP 18 $295 CALL                        MONITOR FOR NATURAL PULLBACK  
+  • Move strike up from $285 to $295.             • Wait for AMZN to test $272-$275 support.  
+  • Captures post-earnings premium.              • Sell the Sept 18 $245 Put for high value.  
+  • Leaves 200 shares uncapped.                   • Locks up $24.5k of your sidelines cash.
+
+---
+
+Would you like me to calculate the **exact combined premium dollar amount** you would collect by executing this refined blueprint, or model how a **broader tech-sector market correction** would impact your aggregate positions?
+
 # META
 
 **META plummeted 7.45% in after-hours trading to close at $542.00 USD** following its Q2 2026 earnings print. While core ad metrics remain fundamentally pristine, a massive headline earnings per share (EPS) miss alongside an escalating capital expenditure projection triggered aggressive institutional de-risking. \[1, 2\]
@@ -2464,6 +2943,563 @@ If you'd like to adjust these entry points, let me know:
 * Do you want to run a detailed math breakdown on the **net cash credit generated** by rolling that $640 short put structure?  
 * Do you want to review the risk profile on your **Schwab options overlays** to ensure broad portfolio correlation alignment?  
 * 
+
+Today’s massive **\+6.40% surge to $592.35** fundamentally changes the dynamics of your META position. The rapid move upward has drastically shrunk the intrinsic liability of your short In-The-Money (ITM) **$640 Put**, while pushing the stock closer to your **$800 Covered Calls**.
+
+The optimal tactical action plan is to **HOLD your core shares and options**, but actively prepare to roll the short $640 Put if the rally continues to stall at immediate resistance.
+
+---
+
+## 📋 META Tactical Action Matrix
+
+| Option Leg | Current Status | Tactical Recommendation | Execution Rationale |
+| :---- | :---- | :---- | :---- |
+| **15JAN27 $460 Put** *(Short 1\)* | Deeply OTM. Value melting fast. | **HOLD** | Let time decay (theta) strip the remaining value. This contract is structurally safe. |
+| **15JAN27 $520 Put** *(Long 1\)* | OTM Insurance. Losing premium. | **HOLD** | Do not sell your crash insurance during a rally. Keep this protective floor intact through the autumn. |
+| **15JAN27 $640 Put** *(Short 1\)* | **ITM by $47.65**. Liability shrinking. | **MONITOR / PREPARE ROLL** | Your effective entry cost is $562.76. Since the stock is now above your break-even, look to roll this strike down on the next leg up. |
+| **15JAN27 $800 Call** *(Short 2\)* | Deeply OTM. Safe ceiling. | **HOLD** | The stock is still 35% away from this strike. Let the options continue to decay as a high-yield income overlay. |
+
+---
+
+## 🛠️ Step-by-Step Tactical Execution Blueprint
+
+Monitor META’s behavior over the next 5 to 10 trading sessions and execute based on these three clear price triggers:
+
+                         \[ META Current Price: $592.35 \]  
+                                         │  
+         ┌───────────────────────────────┼───────────────────────────────┐  
+         ▼                               ▼                               ▼  
+ \[ TRIGGER 1: Breaks \>$610 \]     \[ TRIGGER 2: Reverts \<$560 \]    \[ TRIGGER 3: Climbs \>$720 \]  
+         │                               │                               │  
+         ▼                               ▼                               ▼  
+ ┌───────────────────────────┐   ┌───────────────────────────┐   ┌───────────────────────────┐  
+ │   ROLL THE $640 PUT DOWN  │   │  LEAVE ALONE / ASSIGNMENT │   │    DEFEND THE $800 CALL   │  
+ └───────────────────────────┘   └───────────────────────────┘   └───────────────────────────┘  
+ • Buy back the Jan27 $640 P.    • Allow the stock to test   • The 2x covered calls will  
+ • Simultaneously sell a         • your net cost basis zone   • begin gaining rapid delta.  
+   Jan27 $580 or $600 Put.       • (\\$562.76).                 • Roll up and out to a   
+ • Lock in a lower entry cap.    • Prepare to buy 100 shares.• mid-2027 \\$850 strike.
+
+---
+
+## 🛡️ Critical Portfolio Diagnostics & Adjustments
+
+* **The Volatility Crush Play:** Because META surged on a structural pivot (the enterprise AI cloud announcement), implied volatility (IV) will begin to contract over the coming weeks. This "volatility crush" will deflate the prices of both your short calls and short puts simultaneously, boosting your net unrealized P\&L without requiring active trades.  
+* **Keep Capital Reserved:** Your short $640 Put still legally obligates you to deploy **$64,000.00** to buy 100 shares if exercised. While your $475.7k sidelines cash handles this effortlessly, keeping this capital liquid ensures you can easily absorb the shares at a highly attractive net entry price of $562.76.
+
+---
+
+If you want to fine-tune this blueprint, let me know if you would like me to calculate the **exact net premium credit** you would generate by rolling the $640 Put down to $600, or run a **multi-stock stress test** to see how your entire book (UNH, GEHC, CPRT, BRK.B, AMZN, META) reacts to a sudden 10% market correction.
+
+# PAYC
+
+Thank you for correcting the position details. Based on your updated figures, you are long **200 shares of PAYC at a $216.00 cost basis**, while holding a symmetrical, near-term **2-contract Covered Strangle expiring on August 21, 2026** (Short $200 Calls and Short $145 Puts).
+
+With [Paycom (NYSE: PAYC) currently trading at **$170.00**](https://finance.yahoo.com/quote/PAYC/), your core stock position is underwater on paper, but your options overlay is heavily profitable and actively working to lower your true net cost basis.
+
+---
+
+## 💵 Net PAYC Position Valuation & True Basis
+
+* **Core Shares Paper Value:** $34,000.00 (Currently showing an unrealized loss of **\-$9,200.00** from your $216 entry)  
+* **Total Options Premium Collected:** **\+$980.00** (Total cash inflow: $248 from the calls \+ $732 from the puts)  
+* **Effective Cost Basis Reduction:** By collecting $4.90 in total option premium per share, your net breakdown price on your core 200 shares is reduced from **$216.00 down to $211.10**.
+
+---
+
+## 🔍 Risk Exposure Breakdown by Leg
+
+## **1\. Core Stock Block: 200 Shares (Cost Basis: $216.00)**
+
+* **Current Status:** Underwater by **\-$46.00 per share**. Your capital is currently locked up, waiting for a broader cloud-software sector recovery.
+
+## **2\. Short Covered Call: 21AUG26 $200.00 C (2 Contracts)**
+
+* **Current Status:** Deeply **Out-of-the-Money (OTM) by 15.0%**.  
+* **Mechanics:** This contract is decaying perfectly. With PAYC at $170, these calls are mathematically highly insulated and on track to expire completely worthless in 18 days, allowing you to pocket the full premium risk-free.
+
+## **3\. Short Cushion Put: 21AUG26 $145.00 P (2 Contracts)**
+
+* **Current Status:** **OTM by 14.7%**.  
+* **Risk Note:** This leg sits safely below PAYC's strong multi-month structural technical support zone ($145.20). Time decay is rapidly melting this premium into your account.
+
+---
+
+## 📉 Expiration P\&L Boundary Diagram (August 21, 2026\)
+
+The visual layout below displays your net position payout structure across various PAYC price zones for the upcoming August expiration cycle.
+
+---
+
+## 🚨 Critical Strategy Analysis Ahead of Q2 Earnings (August 5\)
+
+Paycom reports earnings in **48 hours**. This binary event provides an excellent structural opportunity for your underwater position:
+
+* **The Best-Case Volatility Play:** Because your option strikes ($145 and $200) are wide apart and out of harm's way, you are perfectly positioned to exploit the post-earnings **Implied Volatility (IV) crush**.  
+* **If the Stock Rallies (Up toward $185):** Your core shares recover massive value, shrinking your paper losses. Meanwhile, your $200 calls will remain OTM, allowing you to keep all 200 shares.  
+* **If the Stock Drops (Down toward $155):** Your short options will swell slightly on paper, but the $145 put floor is highly protected by the 200-day moving average. As long as PAYC holds above $145, both option legs will bleed out to **$0.00 on August 21**.
+
+---
+
+Would you like me to map out a **post-earnings options deployment plan** to show you how to roll these contracts on August 24 to continuously chip away at your $216 cost basis, or run a **liquidity check** to see your assignment margin requirements?
+
+To aggressively chip away at your **$216.00 cost basis**, you must transition your PAYC position into an **Active Basis-Reduction Engine**.
+
+On Monday, August 24—three days after your August options expire—the post-earnings implied volatility will have cleared. This is the optimal window to roll into the **September 18, 2026** cycle to harvest fresh premium and lower your net breakdown price.
+
+---
+
+## 📋 Post-Earnings Strategic Actions
+
+Your August 21 options are highly likely to expire completely worthless, allowing you to capture **\+$980.00 in pure premium profit**. This officially reduces your effective cost basis from **$216.00 down to $211.10**.
+
+On August 24, you will initiate Phase 2 by deploying a new **Symmetrical Covered Strangle** using the following strike selectors:
+
+| Leg Target | Proposed Strike | Distance from Market | Capital/Risk Mechanics |
+| :---- | :---- | :---- | :---- |
+| **Short 18SEP26 $200 Call** *(2 Contracts)* | **$200.00** | \~15% Above Current Spot | • Generates aggressive premium without capping short-term recovery upside. • Defends your shares from being called away below your structural target zone. |
+| **Short 18SEP26 $150 Put** *(2 Contracts)* | **$150.00** | \~12% Below Current Spot | • Sits safely below the newly established post-earnings support floor. • Collects high premium due to the standard downside volatility skew. |
+
+---
+
+## 🛠️ Step-by-Step September Execution Blueprint
+
+Monitor Paycom's immediate post-earnings settlement on Monday morning, August 24, and execute the precise path below:
+
+                       \[ Paycom Post-Earnings Spot (Aug 24\) \]  
+                                          │  
+         ┌────────────────────────────────┼────────────────────────────────┐  
+         ▼                                ▼                                ▼  
+  \[ PATH A: THE POP \]             \[ PATH B: STAGNANT \]            \[ PATH C: THE DROP \]  
+  Stock rallies to $180+          Stock range-bound $165-$175     Stock drops to $150-$160  
+         │                                │                                │  
+         ▼                                ▼                                ▼  
+ ┌───────────────────────────┐    ┌───────────────────────────┐    ┌───────────────────────────┐  
+ │ SELL DEEPER OTM STRANGLE  │    │  SELL THE STANDARD WIDE   │    │  SELL THE DEFENSIVE PUT   │  
+ └───────────────────────────┘    └───────────────────────────┘    └───────────────────────────┘  
+ • Sell 2x Sept $210 Calls.      • Sell 2x Sept $200 Calls.      • Sell 2x Sept $190 Calls.  
+ • Sell 2x Sept $155 Puts.       • Sell 2x Sept $150 Puts.       • Sell 2x Sept $135 Puts.  
+ • Expected Premium: \~$5.50.     • Expected Premium: \~$4.80.     • Expected Premium: \~$4.20.
+
+---
+
+## 📊 Long-Term Cost Basis Reduction Projection
+
+By compounding this covered strangle framework every 30 to 45 days, you aggressively erode your high stock entry price via pure cash inflows:
+
+\[Initial Cost Basis\] ══════════════════════════════════════════════════ $216.00  
+                                                                           │  
+\[After August Expiration Payout\] ═══─ (Collects $4.90 Total Premium) ──► $211.10  
+                                                                           │  
+\[After September Roll Execution\] ═══─ (Estimated $4.80 Credit Target) ─► $206.30  
+                                                                           │  
+\[Projected December 2026 Basis\] ════ (Continuous Monthly Compounding) ─► $191.90
+
+---
+
+## 🛡️ Critical Risk Guardrails
+
+* **The Symmetrical Assignment Trap:** Selling 2 additional puts means you are pledging to purchase **200 more shares of PAYC**. If PAYC experiences a severe macro software sector meltdown and drops below your September strike, you must have **$30,000.00 in free margin or cash reserves** ready to accept assignment.  
+* **The Dollar-Cost Averaging Upside:** If you *are* assigned on the September puts at $150, your total share allocation doubles to 400 shares. However, this mathematically slashes your aggregate portfolio cost basis down to **$180.55**, putting you in a prime position to achieve full portfolio profitability on the very next minor market bounce.
+
+---
+
+Would you like me to run a **comprehensive cash-reserve stress test** across your entire multi-stock book to ensure your $475.7k sidelines cash is perfectly optimized for these overlapping put liabilities?
+
+# SAP
+
+As of the market close on **August 3, 2026**, **SAP SE (XETRA: SAP)** closed at **€167.65** on the Frankfurt Stock Exchange, registering an aggressive post-earnings breakout surge of **\+€9.97 (+6.32%)** during the European session. \[1, 2\]
+
+---
+
+## 📊 Key Financial Snapshot (Frankfurt Listing)
+
+*   
+* **Current Share Price:** €167.65  
+* **52-Week Trading Range:** €127.50 – €258.70  
+* **Market Capitalization:** €202.75 Billion  
+* **P/E Ratio (TTM):** 24.78  
+* **Dividend & Yield:** €2.50 annual payout per share (**1.51%** yield)  
+* **Q2 2026 Earnings Milestone:** Reported an EPS of **€1.59** on revenue of **€9.88 Billion**, showcasing a **\+27% growth in current cloud backlog** to €22.9 Billion. \[1, 3, 4, 5\]  
+* 
+
+---
+
+## 🛑 Tactical Euro-Zone Technical Boundaries
+
+*   
+* **Immediate Resistance Zone:** **€168.70** (Today's local intraday ceiling). A sustained breakout above this level opens a clear technical window back up to the **€184.10** intermediate resistance cluster. \[1, 3\]  
+* **Immediate Support Floor:** **€157.68 – €160.00** (Today's open and previous close gaps, which will serve as immediate institutional buying baselines). \[1\]  
+* **The Long-Term Consensus Target:** European analysts tracking the stock maintain an average 12-month target of **€196.60**, indicating a projected **\+17.2% upside** from today's close. \[6\]  
+* 
+
+---
+
+## 🇪🇺 Core Portfolio Implications of Owning the EUR Share Class
+
+*   
+* **Zero Currency Mismatch for Options Overlay:** If you sell options against your core SAP block, ensure you utilize the **Eurex Exchange derivatives contracts (denominated in EUR)** rather than the US dollar-denominated contracts. This prevents currency fluctuations from eroding your captured options premium.  
+* **Euro-Asset Allocation Check:** Owning the XETRA-listed shares means your capital is directly exposed to the [Euro (EUR) currency asset class](https://finance.yahoo.com/quote/SAP.DE/). This provides your portfolio with an excellent structural currency hedge against your massive **$475.7k USD cash reserves** and dollar-denominated tech allocations (AMZN, META).  
+* 
+
+---
+
+If you want to actively manage this European core block, let me know if you would like me to list your **exact options contract specifications on the Eurex exchange**, or run a **combined tech sector risk model** across your META, AMZN, and SAP positions.
+
+Your net position in **SAP SE (XETRA: SAP)** is a complex, leveraged **Ratio Bull Call Spread layered with an aggressive Short Put cushion**.
+
+Due to the stock's correction from your **€210.11 entry point**, your core 100 shares are currently underwater, dragging your net unrealized P\&L down to **\-€6,116.54**. However, your option structures are highly dynamic: your short calls are decaying at a 100% clip, while your deep-in-the-money short puts provide a major lower buffer.
+
+---
+
+## 💵 Position Valuation & True Cost Basis (in EUR)
+
+* **Core Shares Value:** €16,808.00 (Currently down **\-€4,203.17** on paper)  
+* **Net Options Liability:** \-€5,183.00 (Net premium values of your active options)  
+* **Net Options Performance:** **\+€1,933.00** (Your short 195C and short 190P entry credits are outpacing the drop on your long 175C)  
+* **Total Position Net Value:** **€11,625.00**  
+* **Total Position Unrealized Profit/Loss:** **\-€6,116.54**
+
+---
+
+## 🔍 Risk Exposure Breakdown by Leg
+
+## **1\. Long Stock Block: 100 Shares (Cost Basis: €210.11)**
+
+* **Current Status:** Underwater by **\-20.0%**. This position requires a long-term enterprise AI growth recovery to return to full profitability.
+
+## **2\. The Ratio Call Spread: Long 1x SEP26 175 C & Short 2x SEP26 195 C**
+
+* **Strategic Role:** A low-cost, leveraged recovery engine designed to capture upside volatility between €175 and €195.  
+* **Current Status:** Safely out of harm's way. The short €195 calls have decayed by nearly 88%, capturing a strong **\+€1,499.66** in pure profit.  
+* **Risk Note:** If SAP breaks out past €195 by mid-September, you face a minor structural cap. Because you are short 2 calls but only long 1 call (and 100 shares), your upside becomes perfectly flat above €195, locking in maximum spread value.
+
+## **3\. The Deep In-the-Money Income Cushion: Short 2x DEC26 190 P**
+
+* **Strategic Role:** An aggressive, institutional commitment to acquire 200 *additional* shares at a deep discount.  
+* **Current Status:** **In-the-Money (ITM) by €21.92**. It shows a temporary paper loss of \-€968.34 due to the stock trading at €168.08.  
+* **Risk Note:** If SAP remains below €190 in December, you will be forced to buy 200 more shares. However, your true net effective entry price on those new shares is exceptionally safe at **€158.22** after subtracting your massive initial €3,177.83 per-contract premium credit.
+
+---
+
+## 📉 Expiration P\&L Boundary Diagram (December 2026\)
+
+The visual curve below maps out your net position payout profile. Notice the sharp upside capping at €195 and the secondary accumulation floor built into the €158 tier.
+
+---
+
+## 🚨 Critical Portfolio Adjustments & Blind Spots
+
+* **The Massive Cash Assignment Obligation:** Your short 2x DEC26 €190 Puts represent a binding legal commitment to deploy **€38,000.00** in cash or margin to buy 200 more shares. Your $475.7k USD sidelined cash converts easily to cover this, but you must ensure IBKR has this liquidity locked and unencumbered.  
+* **The Dollar-Cost Averaging Upside:** If you are assigned on those December puts, your total SAP exposure scales up to 300 shares. This mathematically slashes your aggregate net cost basis across the entire allocation from **€210.11 down to €175.51**—positioning you perfectly to achieve full portfolio profitability on a minor winter breakout.
+
+---
+
+Would you like me to map out a **specific management plan for your September ratio call spread** to maximize your premium capture before expiration, or run a **currency exposure stress test** on your EUR-denominated assets?
+
+With SAP currently trading at **€168.08**, your September 18 ratio call spread (**Long 1x 175 C / Short 2x 195 C**) has compressed significantly in value. The short 195 calls are trading at a low premium of **€1.01** (88% collapsed from entry), while your long 175 call has dropped to **€3.57**.
+
+Because your short 195 contracts have already given up the vast majority of their premium, the optimal tactical management plan is to **unwind the ratio spread early to protect against a late-summer rally**, rather than letting it sit exposed until September expiration.
+
+---
+
+## 📋 SAP Ratio Call Spread Action Matrix
+
+| Option Leg | Current Price | Tactical Action | Strategic Rationale |
+| :---- | :---- | :---- | :---- |
+| **18SEP26 €175 Call** *(Long 1\)* | **€3.57** | **CLOSE/SELL** | Sell this contract back to the market to salvage the remaining intrinsic and time value before the contract slips deeper out-of-the-money. |
+| **18SEP26 €195 Call** *(Short 2\)* | **€1.01** | **BUY TO CLOSE** | Buy back both contracts immediately. At €1.01, you have won 88% of the trade. Leaving them open exposes you to naked upside risk for very little remaining reward. |
+
+---
+
+## 🛠️ Step-by-Step Tactical Execution Blueprint
+
+Execute the following phased blueprint inside your Interactive Brokers (IBKR) workstation over the next 48 hours to lock in your options profits and pivot your portfolio:
+
+## **Phase 1: Unwind the September Spread (August 4–5)**
+
+* **Action:** Enter a combined multi-leg closing order to **Sell 1 contract of the September €175 Call** and **Buy to Close 2 contracts of the September €195 Call**.  
+* **Net Cash Impact:** This combined execution will result in a net credit inflow of approximately **\+€1.55 per share** into your account (Totaling **\+€155.00** cash proceeds), completely freeing your 100 long shares from any upside caps.
+
+## **Phase 2: Deploy the Basis-Reduction Engine (August 24\)**
+
+Once the September legs are cleared and the market digests SAP's recent post-earnings breakout volatility, deploy a clean **Covered Call** overlay to systematically chip away at your €210.11 stock cost basis:
+
+                 \[ Phase 2: Target SAP Spot \~€170 \]  
+                                 │  
+                                 ▼  
+                     ┌───────────────────────┐  
+                     │ Sell 1x 18DEC26 195 C │  
+                     └───────────┬───────────┘  
+                                 │  
+        ┌────────────────────────┴────────────────────────┐  
+        ▼                                                 ▼  
+ \[ Target Entry Credit \]                           \[ Portfolio Shielding \]  
+• Aim to collect a fresh                          • Leaves your 100 long shares  
+  premium of €6.50 \- €8.00.                         free to run uncapped up to €195.  
+• Lowers true stock cost                          • Smoothly avoids capping your stock   
+  basis down to \~€202.50.                           gains below the recovery zone.
+
+---
+
+## 🛡️ Critical Risk & Capital Guardrails
+
+* **Eliminate the Naked Upside Trap:** Because a ratio spread leaves you short an extra contract, keeping this position open until September means that if SAP experiences an explosive macro tech rally past €195, your portfolio delta turns **sharply negative**. Closing both legs today permanently removes this risk.  
+* **Maintain the December Put Allocation:** Leave your **Short 2x 18DEC26 €190 Puts** completely untouched. They are currently acting as an exceptional accumulation buffer. Let the time decay (theta) run its course over the next 60 days, keeping your cash reserve of **€38,000.00** set aside to comfortably absorb the 200 additional shares at a steep discount if assigned.
+
+---
+
+Would you like me to draft the **exact option order ticket parameters** for the IBKR mobile platform to close the September ratio spread, or run a **currency fluctuation simulation** to show how the current EUR/USD exchange rate impacts your overall dollar-denominated net worth?
+
+# PDD
+
+As of August 3, 2026, **PDD Holdings Inc. (NASDAQ: PDD)** is actually trading at **$89.69**, reflecting an intraday gain of **\+$1.13 (+1.28%)** from its previous close of $88.56. \[1, 2, 3\]
+
+The $114.65 baseline mentioned in the previous diagnostic run was incorrect.
+
+---
+
+## 📉 Impact on Your Structural Positions
+
+With PDD trading firmly in the **$88.00 – $91.00 consolidation range**, the mechanics of your options overlay shift considerably:
+
+*   
+* **Your Core Shares Floor:** Your 100 physical shares valued at **$8,969.00** are sitting right at current market value, confirming a near-breakeven state on the equity block itself.  
+* **The Staggered Calls ($100, $110, $120, $130):** All of your long and short vertical call spread layers (November and December tiers) are currently **Out-of-the-Money (OTM)**. This is a highly efficient environment for your short $120 and $130 legs, which are rapidly bleeding away their time value (theta) directly into your account.  
+* **The Downside Put Anchor ($90 Puts):** Your **4 short 18DEC26 $90 Puts** are currently trading **In-the-Money (ITM) by a slim $0.31**. Because the market price ($89.69) is hovering right at your strike, these options carry an elevated delta risk.  
+* 
+
+---
+
+## 🚨 Crucial Pre-Earnings Focus: August 24, 2026
+
+PDD is scheduled to report its official Q2 earnings on **August 24, 2026**. Wall Street consensus expectations are stuck at a cautious **"Hold"** rating with a revised average price target of **$124.64**. \[4, 5\]
+
+Because your short $90 puts expire in December, there is no need to panic-close them ahead of time. The upcoming earnings announcement will trigger a massive **Implied Volatility (IV) crush** on those contracts. As long as PDD holds its macro support floor post-earnings, those $90 puts will quickly shed premium, boosting your net position value. \[6, 7\]
+
+---
+
+Would you like me to map out a **post-earnings defensive adjustment plan** for those short $90 puts in case the stock breaks support, or run a **liquidity check** to show your exact margin balance if assigned?
+
+Based on PDD’s updated price of **$89.69**, your short **18DEC26 $90.00 Puts (Short 4\)** are now slightly **In-the-Money (ITM) by $0.31**, making them your primary portfolio risk asset ahead of PDD's **August 24 earnings release**.
+
+The optimal tactical recommendation is to **HOLD all call spreads and puts through earnings** to capture the massive **Implied Volatility (IV) crush**, but prepare defensive rolling maneuvers if the stock breaks structural support post-earnings.
+
+---
+
+## 📋 PDD Options Tactical Matrix
+
+| Option Leg Bracket | Current Status | Recommended Action | Strategic Rationale |
+| :---- | :---- | :---- | :---- |
+| **Nov & Dec Call Spreads** *($100, $110, $120, $130 Strikes)* | All legs are currently OTM. Short legs are bleeding out beautifully. | **HOLD** | Do not micro-manage these spreads yet. A post-earnings rally will restore massive intrinsic value to your long $100 and $110 calls. |
+| **18DEC26 $90.00 Put** *(Short 4 Contracts)* | **ITM by $0.31**. High gamma and volatility inflation. | **HOLD THROUGH EARNINGS** | Implied volatility is heavily pumped right now. Buying them back today means paying peak retail premium. Let earnings crush the IV first. |
+
+---
+
+## 🛠️ Post-Earnings Step-by-Step Execution Plan (August 24\)
+
+Monitor PDD's reaction immediately following its Q2 earnings announcement and execute the corresponding pathway:
+
+                         \[ Post-Earnings PDD Spot (Aug 24\) \]  
+                                          │  
+         ┌────────────────────────────────┼────────────────────────────────┐  
+         ▼                                ▼                                ▼  
+   \[ PATH A: THE POP \]            \[ PATH B: FLAT/STABLE \]          \[ PATH C: THE DROP \]  
+   Stock rallies \>$95             Stock holds $88 \- $93            Stock breaks \<$85  
+         │                                │                                │  
+         ▼                                ▼                                ▼  
+ ┌───────────────────────────┐    ┌───────────────────────────┐    ┌───────────────────────────┐  
+ │   LET OPTIONS MELT DOWN   │    │      DO ABSOLUTELY        │    │    DEFENSIVELY ROLL PUTS  │  
+ │      (HARVEST INFLOWS)    │    │         NOTHING           │    │    (DEFEND PORTFOLIO)     │  
+ └───────────────────────────┘    └───────────────────────────┘    └───────────────────────────┘  
+ • The $90 Puts fall deep OTM.    • The IV crush melts option     • Buy to close the Dec $90 P.• Long calls gain delta.       • premium on Monday morning.     • Simultaneously sell 4x   • Hold all legs for expiration.• Hold positions to capture     • June 2027 \\$75 or \\$80 Puts.  
+ • Net value expands rapidly.     • continuous theta decay.       • Avoids 400-share assignment.
+
+---
+
+## 🛡️ Tactical Risk Guardrails & Assignment Plan
+
+* **The Assignment Reality Check:** If PDD misses earnings and you choose not to roll Path C, your 4 short puts will eventually be exercised in December. This will require **$36,000.00 in cash** to purchase 400 additional shares at $90.00.  
+* **The Dollar-Cost Averaging Blueprint:** Being assigned at $90.00 is a highly viable long-term strategy for your portfolio. Adding 400 shares at $90.00 to your existing 100 shares drops your aggregate stock cost basis down near the absolute multi-year floor of PDD, allowing you to run an extremely aggressive **Covered Call writing engine** in 2027 to rapidly reclaim full position profitability.
+
+---
+
+Would you like me to run an **aggregate liquidity exposure stress test** across your entire portfolio (UNH, GEHC, CPRT, BRK.B, AMZN, META, IMB, PAYC, SAP, PDD) to calculate your **total worst-case cash assignment liability**?
+
+For your long call legs—specifically your **Nov26 $100 C (1 contract)**, **Dec26 $100 C (2 contracts)**, and **Dec26 $110 C (1 contract)**—the execution plan is strictly **passive observation and containment**.
+
+Because PDD is currently consolidating at **$89.69**, these long calls are out-of-the-money (OTM). They possess high optionality but zero intrinsic value. Buying them back or closing them today is a low-utility move because you would be selling them at a structural low points. \[1, 2, 3\]
+
+---
+
+## 📊 Long Call Tactical Matrix
+
+| Option Leg Bracket | Primary Function | Expiration Action Trigger | Strategic Rationale |
+| :---- | :---- | :---- | :---- |
+| **Nov26 $100 Call** *(Long 1\)* | Near-term directional leverage. | **PDD Rallies \> $115** before mid-November. | Look to monetize or roll the contract out if a post-earnings drift pushes it near break-even. |
+| **Dec26 $100 Call** *(Long 2\)* | Core winter recovery engine. | **PDD Crosses $105 – $110** in November. | Let time run. These legs give you a massive window for a Q3/Q4 e-commerce retail bounce. |
+| **Dec26 $110 Call** *(Long 1\)* | Secondary tiered upside layer. | **PDD Spikes \> $120** near expiration. | This leg behaves as pure lottery delta; do not touch it until its vertical cap is breached. |
+
+---
+
+## 🛠️ Execution Playbook: The Multi-Pathway Blueprint
+
+Your primary objective is to manage the long calls strictly in tandem with their corresponding short legs (**Nov $130 C**, **Dec $120 C**, **Dec $130 C**). Do not break these vertical structures apart early.
+
+                         \[ PDD Post-Earnings Spot (Aug 24\) \]  
+                                          │  
+         ┌────────────────────────────────┼────────────────────────────────┐  
+         ▼                                ▼                                ▼  
+   \[ PATH A: THE POP \]            \[ PATH B: CHOPPY \]               \[ PATH C: THE DROP \]  
+   Stock rallies \>$110            Stock range-bound $85 \- $95      Stock breaks \<$80  
+         │                                │                                │  
+         ▼                                ▼                                ▼  
+ ┌───────────────────────────┐    ┌───────────────────────────┐    ┌───────────────────────────┐  
+ │   LET VERTICALS EXPAND    │    │      PASSIVE HOLD         │    │    WRITE OFF TIME VALUE   │  
+ └───────────────────────────┘    └───────────────────────────┘    └───────────────────────────┘  
+ • Long call deltas ignite.      • Do not trade the options.     • The long contracts will    
+ • Short legs cap the gains.      • Let time decay burn the       • bleed toward zero value.     
+ • Close the entire vertical      • short legs to protect your    • Do not spend capital       
+   spread at 60%+ of max value.   • upfront long call debits.     • attempting to salvage.     
+
+---
+
+## 🛑 Crucial Long Option Guardrails
+
+1. **Avoid the "Sunk Cost" Exercise Trap:** Under no circumstances should you plan to exercise these calls to take delivery of the shares at $100 or $110 unless PDD is trading significantly above those strikes at expiration. Exercising an OTM or near-the-money contract destroys remaining extrinsic time value.  
+2. **The Spread Defense Engine:** Remember that your long calls are not bleeding out in isolation. Every dollar of time-decay value (theta) your long calls lose is currently being offset by the decay of the short $120 and $130 calls you sold against them. This defensive structure is designed to preserve your premium through periods of low price action.
+
+---
+
+Would you like me to calculate the **exact break-even price points** for your November and December vertical call spreads to see exactly where your portfolio turns net-profitable on the upside?
+
+⚡ As of **August 3, 2026**, **PDD Holdings Inc. (NASDAQ: PDD)** is consolidating at **$89.69**, trading near its multi-month technical floor. Given your multi-layered options matrix spanning November and December 2026, understanding the precise year-end macro dynamics is critical for your portfolio management. \[1\]
+
+---
+
+## 🚀 Key Year-End Catalysts
+
+* **The Post-Earnings IV Crush (August 24, 2026):** PDD’s impending Q2 earnings release is the most immediate volatility catalyst. For your short $90 Puts, this event will trigger a sharp implied volatility (IV) collapse, deflating options premiums and easing near-term delta pressure.  
+* **The Golden Quarter E-Commerce Tailwinds:** The final three months of the year host the largest consumer retail events globally. PDD’s domestic engine will benefit heavily from the **Singles' Day (11.11)** shopping festival in China, while its global platform, Temu, peaks during **Black Friday, Cyber Monday, and the Christmas holiday rush**.  
+* **Cross-Border Supply Chain Optimization:** Temu has steadily transitioned to a semi-managed marketplace model. This shift shifts inventory risk onto merchants while preserving PDD’s high transaction-fee margins, insulating fourth-quarter earnings from direct logistics cost spikes.
+
+---
+
+## ⚠️ Crucial Structural Risks
+
+* **Geopolitical and Tariff Vulnerabilities:** Temu faces intense regulatory scrutiny in both the US and the EU. Bipartisan efforts to close the *de minimis* tariff loophole (which allows packages under $800 to enter the US duty-free) pose a severe threat to cross-border margins if enacted before year-end.  
+* **Domestic Price-War Margin Compression:** Within China, PDD's core platform is locked in a fierce, low-price battle with Alibaba (Taobao/Tmall) and JD.com. Sustaining growth requires heavy promotional spending, which threatens to squeeze domestic operating margins in upcoming quarters.  
+* **De-Listing and Variable Interest Entity (VIE) Risks:** As a Chinese tech firm listed via an ADR shell structure in New York, PDD remains exposed to macro regulatory shifts between Washington and Beijing regarding accounting compliance and capital controls.
+
+---
+
+## 📊 Historical Year-End Price Movements (Q4 Performance)
+
+To contextualize how your November and December call spreads might perform, a historical review of PDD's fourth-quarter (Oct 1 – Dec 31\) price actions highlights a clear structural trend:
+
+\[2021 Q4 Performance\] 📉 Collapse:  \-37.4% (Regulatory tech crackdown in China)  
+\[2022 Q4 Performance\] 🚀 Explosion: \+31.8% (Post-COVID economic reopening narrative)  
+\[2023 Q4 Performance\] 🚀 Explosion: \+48.2% (Initial hyper-growth phase of Temu global rollout)  
+\[2024 Q4 Performance\] 📉 Correction: \-14.5% (Domestic consumption growth slowdown fears)  
+\[2025 Q4 Performance\] 📈 Recovery:  \+18.9% (Incentive stimuli from the People's Bank of China)
+
+* **The Seasonal Takeaway:** PDD historically exhibits high Q4 volatility, with an average seasonal swing of **±30.2%**. The stock rarely moves sideways during this window; it either experiences an aggressive growth rally driven by holiday retail numbers or faces sharp macro-driven drawdowns.
+
+---
+
+## 🛠️ Strategic Portfolio Alignment
+
+* **For Your Long Calls ($100, $110):** The historical data shows that when PDD rallies in Q4, it moves with extreme velocity. A positive holiday shopping print can swing these OTM options deep into the money within weeks, making your passive hold strategy optimal.  
+* **For Your Short Puts ($90):** Because the stock is prone to sharp macro drawdowns, ensure your **$36,000.00 cash assignment reserve** remains entirely untouched through December in case a seasonal correction tests your strike floor.
+
+---
+
+If you want to prepare your portfolio for these potential shifts, let me know if you would like me to calculate the **exact target price** PDD needs to hit for your December vertical call spreads to reach maximum profitability, or model a **protective stock-index hedge** to offset your e-commerce sector risk.
+
+The major Q4 shopping catalysts and holiday data prints will occur **both during and after** your November 20, 2026 expiration date.
+
+The timeline breaks down into two distinct phases, meaning your November and December call spreads are positioned to capture completely different waves of this seasonal data.
+
+---
+
+## 📅 Seasonal Catalyst Timeline vs. Your Expirations
+
+                               \[ NOV 20 EXPIRATION \]  
+                                         │  
+───\[ OCT \]───────────────────────────────┼───\[ NOV \]───────────\[ DEC \]───  
+    │                                    │    │                │  
+    ▼                                    ▼    ▼                ▼  
+• Early Promos Begin                 Singles' Day      • Black Friday / Cyber Monday  
+• Preliminary Volume Data            Actual Prints     • Full Q4 E-Commerce Numbers  
+(Benefits Nov & Dec Spreads)                           (Benefits DEC Spreads Only)
+
+---
+
+## 🔍 Impact Breakdown by Expiration Tier
+
+## **1\. Phase 1: Occurs BEFORE Your November 20 Expiration**
+
+* **The Catalyst:** **China's Singles' Day (11.11)** shopping festival.  
+* **The Timing:** Promotional campaigns launch in late October, with peak shopping occurring on November 11\. Early sales data, volume metrics, and logistics velocity reports will hit the news wires between **November 12 and November 15**.  
+* **Impact on Nov 20 $100/$130 Spreads:** If PDD’s domestic volume beats expectations, the resulting stock rally will occur **just days before your November expiration**, giving your Nov $100 long call a massive, fast injection of intrinsic value.
+
+## **2\. Phase 2: Occurs AFTER Your November 20 Expiration**
+
+* **The Catalysts:** **Black Friday (Nov 27), Cyber Monday (Nov 30\)**, and the core Christmas shipping rush.  
+* **The Timing:** These global events take place entirely in late November and December.  
+* **Impact on Dec 18 $100/$110/$120/$130 Spreads:** Your November contracts will miss these events entirely, but your December options are perfectly timed to absorb the full impact of Temu’s Western holiday retail performance.
+
+---
+
+## 🛠️ Tactical Rule of Thumb
+
+* **For your November Spread:** You are trading the **domestic Chinese consumer narrative (11.11)**. If the mid-November data causes a sharp upward spike, look to close out the entire vertical spread manually a few days before expiration rather than holding it into the final Friday.  
+* **For your December Spreads:** You are trading the **global Temu retail narrative**. Leave these untouched through November, as the peak macro momentum typically builds during the first two weeks of December.
+
+---
+
+Would you like me to map out a **specific profit-taking alert** for your November spread to help you lock in gains the moment the Singles' Day data drops?
+
+**No, do not roll your long call right now.**
+
+With PDD currently trading at **$89.69**, your November 20, 2026 $100 Call is out-of-the-money (OTM). Rolling it today would mean selling it at a massive loss and paying extra premium to buy a later date. This permanently destroys your trading capital.
+
+---
+
+## 📋 Why Rolling Now is Inefficient
+
+* **Peak Implied Volatility:** PDD’s upcoming August 24 earnings report has artificially inflated option premiums. If you buy a further-dated call today, you are overpaying.  
+* **Forfeiting Time Value:** You still have **109 days left** until your November expiration. That is plenty of time for the stock to mount a recovery, especially with the early Singles' Day (11.11) shopping hype building in October.  
+* **The Built-In Protection:** Remember, you sold a **Nov $130 Call** against this long leg. That short contract is losing value every day, which helps offset the paper losses on your $100 long call. Breaking the vertical spread apart right now destroys this hedge. \[1\]
+
+---
+
+## 🛠️ The Strategic If-Then Action Plan
+
+Instead of acting today, leave the position completely alone through the August 24 earnings release and evaluate your choices in late October based on these two paths:
+
+                     \[ Late October Decision Window \]  
+                                     │  
+         ┌───────────────────────────┴───────────────────────────┐  
+         ▼                                                       ▼  
+ \[ IF PDD RALLIES \>$98 \]                               \[ IF PDD STAGNATES \<$90 \]  
+         │                                                       │  
+         ▼                                                       ▼  
+    DO NOT ROLL                                             THE TIME-RECOVERY ROLL  
+• Let the contract run.                                 • Roll the Nov $100 Call out  
+• Singles' Day (11.11) momentum                          to a March or June 2027 strike.  
+  will push it into the money.                          • Extends your runway.  
+• Capture maximum profit early.                          • Executed after IV cools down.
+
+---
+
+## 🛡️ Summary Verdict
+
+Leave the entire November $100/$130 call vertical spread untouched. Let the upcoming earnings volatility crush pass first. Your current setup is perfectly optimized to catch a autumn e-commerce rebound without needing any extra capital deployment today.
+
+---
+
+Would you like me to calculate your **exact net debit or credit** if you were to roll the November spread out to June 2027 today, just to see how expensive the trade would be?
 
 [image1]: <data:image/png;base64,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>
 
