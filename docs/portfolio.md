@@ -145,7 +145,7 @@ Overall assessment of the trades, strategic intent, asessment of its impact and 
 - Log refresh timestamp, FX rates, and reconciliation checks in an **audit trail**.
 - Use the **latest available snapshot** unless a fixed reporting date is specified.
 
-- Current refresh timestamp: **2026-08-03 21:07:37**.
+- Current refresh timestamp: **2026-08-04 21:56:53**.
 
 
 # [transaction_details] START  
@@ -1677,7 +1677,7 @@ BRK B 18SEP26 520 C;IBKR;Equity and Index Options;;USD;8.725;9.37287917;-1.0;-87
 CPRT;IBKR;Stocks;COPART INC;USD;29.12;27.171926655;1100.0;32032.0;32032.0;;0.012144478294978125;2142.880679500001
 CPRT 18SEP26 25 P;IBKR;Equity and Index Options;;USD;0.325;0.63450071;-5.0;-162.5;-162.5;;-6.160956927241337e-05;1.5475035499999998
 CPRT 18SEP26 32.5 C;IBKR;Equity and Index Options;;USD;0.6;0.28450792;-6.0;-360.0;-360.0;;-0.00013648889192657734;-1.8929524799999997
-CRM 09/18/2026 160.00 P;Schwab;Equity and Index Options;SALESFORCE;USD;3.6;-6.94315;2.0;720.0;720.0;;0.0002729777838531547;21.0863
+CRM 09/18/2026 160.00 P;Schwab;Equity and Index Options;SALESFORCE;USD;3.6;6.94315;-2.0;720.0;720.0;;0.0002729777838531547;6.6863
 DNOW;IBKR;Stocks;DNOW INC;USD;14.12;26.81106924;25.0;353.0;353.0;;0.00013383494125022722;-317.276731
 FAST;IBKR;Stocks;FASTENAL CO;USD;47.71;42.17242457;100.0;4771.0;4771.0;;0.001808856953838057;553.7575430000004
 FCX;IBKR;Stocks;FREEPORT-MCMORAN INC;USD;62.63;11.2079574;500.0;31315.0;31315.0;;0.011872637918557692;25711.021300000004
@@ -1698,7 +1698,7 @@ META 15JAN27 520 P;IBKR;Equity and Index Options;;USD;38.075;62.7404795;1.0;3807
 META 15JAN27 640 P;IBKR;Equity and Index Options;;USD;108.0931;77.2419796;-1.0;-10809.31;-10809.31;;-0.004098196512196866;-30.851120400000013
 META 15JAN27 800 C;IBKR;Equity and Index Options;;USD;10.3614;35.535755475;-2.0;-2072.28;-2072.28;;-0.0007856755582266881;50.348710950000005
 MSFT;Schwab;Stocks;MICROSOFT CORP;USD;425.01;470.3566;100.0;42501.0;42501.0;;0.016113651099365175;-4534.660000000003
-MSFT 08/21/2026 355.00 P;Schwab;Equity and Index Options;MICROSOFT CORP;USD;5.325;-8.4432;1.0;532.5;532.5;;0.0002018898193080623;13.7682
+MSFT 08/21/2026 355.00 P;Schwab;Equity and Index Options;MICROSOFT CORP;USD;5.325;8.4432;-1.0;532.5;532.5;;0.0002018898193080623;3.118199999999999
 MSFT 15JAN27 420 P;IBKR;Equity and Index Options;;USD;18.6639;53.1437823;-2.0;-3732.78;-3732.78;;-0.001415230572238026;68.9597646
 NOV;IBKR;Stocks;NOV INC;USD;19.43;62.158401437;300.0;5829.0;5829.0;;0.0022099826417778315;-12818.520431100002
 NVDA;Moomoo-mom;Stocks;NVIDIA;USD;191.48;0.0;0.4717;90.321116;90.321116;;3.42439695566996e-05;90.321116
@@ -1805,9 +1805,9 @@ Forex;IBKR;Forex;;CNH;0.148953656;;-0.14809;;964.0659;-5.6224;0.0003655119067644
 # [pivot_summary] START  
 # PORTFOLIO PIVOT SUMMARY
 
-**Report Date :** 2026-08-03  
+**Report Date :** 2026-08-04  
 **Filter      :** Open Positions | Forex Balances | Cash Balances  
-**Generated   :** 2026-08-03 21:07:37  
+**Generated   :** 2026-08-04 21:56:53  
 
 ---
 
@@ -1818,11 +1818,11 @@ Forex;IBKR;Forex;;CNH;0.148953656;;-0.14809;;964.0659;-5.6224;0.0003655119067644
 ```
             Amount  Quantity  Value in USD
 Underlying                                
-CRM          720.0      -2.0         720.0
-MSFT         532.5      -1.0         532.5
+CRM          720.0       2.0         720.0
+MSFT         532.5       1.0         532.5
 ```
 
-> **SUBTOTAL [Schwab]**  Amount: `       1,252.50`  Quantity: `          -3.00`  Value in USD: `       1,252.50`
+> **SUBTOTAL [Schwab]**  Amount: `       1,252.50`  Quantity: `           3.00`  Value in USD: `       1,252.50`
 
 ### IBKR
 
@@ -1848,7 +1848,7 @@ UNH         -6085.84       3.0      -6085.84
 
 > **SUBTOTAL [IBKR]**  Amount: `     -91,259.83`  Quantity: `          43.00`  Value in USD: `    -101,469.40`
 
-> **SUBTOTAL [Equity and Index Options]**  Amount: `     -90,007.33`  Quantity: `          40.00`  Value in USD: `    -100,216.90`
+> **SUBTOTAL [Equity and Index Options]**  Amount: `     -90,007.33`  Quantity: `          46.00`  Value in USD: `    -100,216.90`
 
 ---
 
@@ -2124,7 +2124,7 @@ Underlying
 ---
 
 > ### GRAND TOTAL  
-> Amount: `   6,160,840.05`  Quantity: `    -950,225.73`  Value in USD: `   2,637,577.28`
+> Amount: `   6,160,840.05`  Quantity: `    -950,219.73`  Value in USD: `   2,637,577.28`
 
 ---
 
