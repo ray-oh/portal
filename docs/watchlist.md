@@ -1,5 +1,172 @@
 # Trades exploration
 
+As of 8 AUG 2026:
+
+Schwab vs IBKR
+
+- Schwab \- 0% commission fee, but high margin rates and lower interest on cash balances.  0% commission also on ADRs e.g. BABA \- for both buy and sell.  But may have less efficient bid/ask.  Thinkorswim platform advantage.  
+- Schwab money market funds like SWVXX count towards your margin buying power for options trades, but only after a mandatory holding period.  The 30-Day Holding Period Rule: Under federal regulations, newly purchased mutual funds and money market funds cannot be margined right away. When you purchase SWVXX, it will be labeled as "Non-Marginable" for the first 30 days. During this initial window, it cannot be used as collateral or options buying power.  
+- IBKR \- better for option trades as margin management is more efficient \- includes also T-Bills as margin collateral.  Also foreign stock trades available e.g. LSE.
+
+Key Comparison Metrics
+
+| Feature | Charles Schwab HK | Interactive Brokers (IBKR Pro) | Best Choice for HK Residents |
+| ----- | ----- | ----- | ----- |
+| **Trading Commission** | **$0.00 flat** | **\~$0.35 per trade** (Tiered pricing) | **Charles Schwab** |
+| **FX Conversion (HKD to USD)** | Retail spread (\~0.5%–1.0%) | Institutional spot rate (Flat **$2.00 USD** fee) | **IBKR** |
+| **ADR Custody / Pass-Thru Fees** | **Standard** (Deducted automatically) | **Standard** (Passed directly from depository) | **Tie** |
+| **BHP Dividend Tax (Australia)** | 30% default (Unless 15% treaty optimized) | 30% default (Unless 15% treaty optimized) | **Tie** |
+| **PDD Dividend Tax (Cayman)** | 0% (Cayman Islands tax rate) | 0% (Cayman Islands tax rate) | **Tie** |
+
+Capital efficient holding \- to eliminate 30% withholding tax
+
+- Hold synthetic long instead of physical shares, for “mega” stocks with good liquidity and narrow bid/ask spreads reducing loss through trading friction.  
+- Free up capital which can be used to earn additional 4% interest income via T-Bills  
+- Synthetic longs also support covered calls.  But choose calls that have higher than 70% probability to expire worthless to avoid assignment
+
+**Execution plan**
+
+1. **Core S\&P 500 Index Optimization**
+
+You currently hold **110 shares of IVV** valued at **$85,442.80 USD** cross-allocated between IBKR ($77,673.00) and Schwab ($7,769.80).
+
+ \[CURRENT IVV BLOCK\] ────────────────────────► \[TAX LEAKAGE CORRIDOR\]
+
+  $85,442 Assets x \~1.3% Yield \= $1,110 Yield ──► 30% Tax Drag \= $333 Loss
+
+* **Step 1:** Liquidate 100 shares of IVV inside IBKR and 10 shares inside Charles Schwab. Take advantage of your **0% capital gains tax status** to pay nothing on your unrealized gains.  
+* **Step 2:** Consolidate your cash balances within **IBKR** to keep external platforms separated.  
+* **Step 3:** Deploy $85,442 USD on the London Stock Exchange (LSE) using one of these institutional replacements:  
+  * **Option A (15% Tax Drag):** Buy **iShares Core S\&P 500 UCITS ETF (Ticker: CSPX)**. Domiciled in Ireland, it automatically reinvests dividends to optimize your capital gains profile.  
+  * **Option B (0% Tax Drag):** Buy **Invesco S\&P 500 UCITS ETF (Ticker: SPXS)**. This synthetic fund uses swap contracts to achieve complete protection against the 30% withholding tax under Section 871(m).  
+  * Synthetic swap funds (0% tax) offer a structurally higher net return than physical replication funds (15% tax) by completely eliminating the US dividend withholding tax under US Internal Revenue Code Section 871(m). This could amount to 0.2% for IVV.  However, this outperformance comes with counterparty risk.   
+  *   
+2. **Mega-Cap Tech Optimization (Alphabet & Microsoft)**
+
+You hold **400 shares of GOOG** ($141,388.00) and **100 shares of MSFT** ($49,945.00).
+
+ \[GOOG/MSFT COMBINED\] ──────────────────────► \[TAX LEAKAGE CORRIDOR\]
+
+  $191,333 Assets x \~0.65% Average Yield ──────► 30% Withholding Penalty
+
+* **Step 1:** Maintain your core cash equity shares if they support option collateral blocks. However, if your long shares are unencumbered, liquidate the physical equity chunks.  
+* **Step 2:** Replace the position with a **Synthetic Long Combo Strategy** using deep in-the-money options to mirror stock performance.  
+  * *Example:* With GOOG at 353\. Buy 4 contracts of the GOOG 18DEC26 200 C and sell 4 contracts of the GOOG 18DEC26 200 P.  
+* **Step 3:** This options configuration carries a delta of 1.00, meaning it mimics the price movements of your 400 shares exactly. Because derivative premium adjustments are priced into the option option skew rather than paid out as cash distributions, you transform dividend payments into capital growth. This legal structure bypasses the 30% cash withholding tax entirely.
+
+When you run a synthetic covered call, you slice your investment into two distinct trading horizons:
+
+*  \[LAYER 1: CORE SYNTHETIC LONG\] ──► LEAPS Horizon (12-24 Months)  
+*                                      Long Deep ITM Call \+ Short OTM Put (Delta \~1.00)  
+*                                        
+*   \[LAYER 2: PREMIUM INCOME ENGINE\] ─► Tactical Horizon (30-45 Days)  
+*                                      Short OTM Covered Call (Delta \~0.30)
+
+1. **The Base Layer (LEAPS Combo):** You set up your core long exposure using long-dated LEAPS options (typically 12 to 24 months out). Buying a deep ITM call and selling an OTM put establishes an synthetic long position with a Delta of 1.00, meaning it tracks the underlying stock dollar-for-dollar. \[[1](https://www.reddit.com/r/options/comments/1i7vkkq/12_year_expiration/)\]  
+2. **The Income Layer (Short-Term Call):** You sell short-term OTM call options (typically 30 to 45 days out) against that long core. The premium you collect from these short calls generates recurring monthly income, boosting your total returns.  
+* 
+
+---
+
+Step-by-Step Execution Plan: Microsoft (MSFT) Example
+
+You currently hold **100 shares of MSFT** valued at **$49,945.00 USD**. Here is how you can restructure that exact block into a synthetic covered call engine inside your **IBKR account**:
+
+With Microsoft close to 500:
+
+┌─────────────────────────────────────────────────────────────────┐
+
+│              MSFT SYNTHETIC COVERED CALL BLUEPRINT              │
+
+├─────────────────────────────────────────────────────────────────┤
+
+│ 1\. Clear Baseline: Sell 100 physical MSFT shares at spot.       │
+
+│ 2\. Open Long-Dated Core (Jan 2028 Horizon):                    │
+
+│    • Buy 1 x Jan 2028 $400 Call (Deep ITM, Delta \~0.85)         │
+
+│    • Sell 1 x Jan 2028 $350 Put (Deep OTM, Delta \~0.15)         │
+
+│ 3\. Layer Short-Term Income:                                     │
+
+│    • Sell 1 x Sep 2026 $540 Call (30 Days out, Delta \~0.30)     │
+
+└─────────────────────────────────────────────────────────────────┘
+
+* **Capital Efficiency Realized:** Instead of locking up the full **$49,945 USD** in physical stock, this entire options configuration requires a margin maintenance deposit of only **\~$7,500 USD**.  
+* **T-Bill Yield Optimization:** You can take the remaining **$42,445 USD of freed cash** and sweep it directly into your **US Treasury Bills sleeve**. This uncommitted cash balance immediately starts compounding at a risk-free rate of **\~4.50%**, adding another layer of passive income to your portfolio.
+
+---
+
+With GOOG at 353:
+
+Phase 1: The Core Synthetic Long Structure (18-Month Target)
+
+To lock in your baseline 400-share long exposure while freeing maximum cash, execute an institutional **Synthetic Combo** using long-dated LEAPS options.
+
+* **Target Expiration:** **January 21, 2028** (\~18 Months Duration)  
+* **The Specific Option Legs (Per 100 Shares Portfolio Block):**  
+  * **Leg A:** Buy 4 contracts of the **GOOG 21JAN28 $250.00 Call** (Deep In-the-Money / Delta \~0.85).  
+  * **Leg B:** Sell 4 contracts of the **GOOG 21JAN28 $250.00 Put** (Deep Out-of-the-Money / Delta \~0.15).
+
+**Financial Execution Matrix**
+
+* **Net Premium Entry Cost:** The combination will price out to a net debit of approximately **$106.00 to $109.00 USD per contract**. This represents the current spot price minus all expected future quarterly dividends, giving you an upfront discount.  
+* **Capital Allocated to Margin:** Interactive Brokers (IBKR) will restrict approximately **$21,388.00 USD** as portfolio margin maintenance collateral to secure the short puts.  
+* **Liquidity Released:** **$120,000.00 USD** in cash is immediately returned to your account balance, allowing you to sweep it into higher-yielding short-dated T-Bills.
+
+---
+
+Phase 2: The Tactical Monthly Income Engine (30-Day Cycles)
+
+With your core Delta-1 synthetic structure established, sell out-of-the-money call options against it every 30 to 45 days to generate recurring premium income.
+
+* **Active Operational Expiration:** **September 18, 2026** (\~40 Days to Expiry)  
+* **Target Option Leg:** Sell 4 contracts of the **GOOG 18SEP26 $390.00 Call** (Delta \~0.25 to 0.30).
+
+**Projected Income Capture**
+
+* **Premium Collection Potential:** Targeting a $390 strike (roughly **10% above current spot**) allows you to collect an estimated **$3.50 to $4.20 USD per share** in premium.  
+* **Gross Monthly Cash Flow Generated:**  
+  \\(4\\text{\\ contracts}\\times 100\\text{\\ shares}\\times \\$3.85\\text{\\ average\\ premium}=\\mathbf{+\\$1,540.00}\\text{\\ USD\\ Cash\\ Flow}\\)
+
+**Active Monthly Rollover Routine:** To optimize your premium capture efficiency, buy back your short September calls when they lose 50% to 75% of their value due to time decay (Theta), then roll the position forward by selling the October or November contract cycles. 
+
+## Other strategies:
+
+The **ratio bear put spread** is an advanced options trading strategy where a trader buys a certain number of put options at a higher strike price and sells a larger number of put options at a lower strike price. \[[1](https://www.stockgro.club/blogs/futures-and-options/put-ratio-spread/), [2](https://www.investopedia.com/articles/optioninvestor/07/affordable-hedging.asp), [3](https://www.insiderfinance.io/options-profit-calculator/strategy/put-ratio-spread), [4](https://www.bajajbroking.in/blog/bear-put-spread-strategy)\]
+
+Strategy Overview
+
+* **Setup:** Buy 1 Long Put (Strike A) \+ Sell N Short Puts (Strike B, where Strike B \< Strike A). The most common ratio is 1:2 (buy 1, sell 2). \[[1](https://www.captrader.com/en/glossary/ratio-put-spread/), [2](https://www.m-x.ca/f_publications_en/strategy_short_ratio_put_spread_en.pdf), [3](https://www.stockgro.club/blogs/futures-and-options/put-ratio-spread/), [4](https://www.angelone.in/knowledge-center/share-market/put-ratio-back-spread-detail-explaination)\]  
+* **Market Outlook:** **Moderately bearish.** The trader wants the underlying asset price to fall precisely down to the lower strike price (Strike B) at expiration, maximizing profit while avoiding a steeper decline that exposes them to downside risk. \[[1](https://www.stockgro.club/blogs/futures-and-options/bear-put-spread/), [2](https://www.asx.com.au/investors/learn-about-our-investment-solutions/asx-options-knowledge-hub/investment-strategies/bear-spread), [3](https://www.tastylive.com/concepts-strategies/bear-put-spread), [4](https://www.investopedia.com/trading/options-strategies/), [5](https://www.moomoo.com/us/learn/detail-bear-put-spread-option-117267-240705007)\]  
+* **Cost/Credit:** Can be established for either a net debit (cost) or a net credit (income), depending on the choice of strikes, the ratio used, and option premiums. \[[1](https://www.tastylive.com/concepts-strategies/ratio-spread), [2](https://www.stockgro.club/blogs/futures-and-options/put-ratio-spread/), [3](https://www.captrader.com/en/glossary/ratio-put-spread/), [4](https://www.schaeffersresearch.com/education/options-strategies/bearish-options-strategies/put-ratio-spread), [5](https://www.daytrading.com/ratio-spreads)\]
+
+Key Trading Characteristics
+
+* **Implied Volatility (IV) Impact:** The strategy is generally **short volatility (Vega negative)** because it involves selling more options than it buys. A drop in implied volatility benefits the position, while a surge hurts it. \[[1](https://commodity.com/technical-analysis/options/bear-put-ratio-backspread/), [2](https://www.m-x.ca/f_publications_en/strategy_short_ratio_put_spread_en.pdf), [3](https://www.insiderfinance.io/options-profit-calculator/strategy/bear-call-spread), [4](https://stolo.in/learn/bear-put-spread-strategy/), [5](https://stolo.in/learn/bear-call-spread-strategy/)\]  
+* **Time Decay (Theta) Impact:** The strategy benefits from **positive time decay** as expiration approaches, provided the stock stays near or slightly above the lower strike price (K₂), because the two short options lose value faster than the single long option. \[[1](https://www.sofi.com/learn/content/bear-put-spreads/), [2](https://stolo.in/learn/bear-put-spread-strategy/)\]  
+* **Margin Requirements:** Because this strategy contains an uncovered (naked) short option position, brokers require significant margin to hold it open
+
+Michael Burry AI bubble trade thesis
+
+- AI capex spending out of wack with earnings potential.  Hardware companies valued as if this capex spending will last forever.  
+- Shorting  
+  -  semiconductor: SOXX ETF  
+  - Data centre build out: Nebius, Coreweave, Oracle (“bloated valuations”), SMCI  
+  - Bloated valuations: Palantir  
+- Long defensive:  
+  - LULU, DraftKings, Mercado Libre, Fiserv, Flutter entertainment, Zoetis
+
+## Summary of recommended action
+
+- Change to Irish/Synthetic UCITS : IVV  
+- Change to Synthetic long \+ covered call : GOOG, AMZN, META, FCX, CPRT  
+  - 18 to 24 months out with delta 0.8 to 0.85.  Not too deep which has liquidity efficiency issue  
+  - Rollover before less than 6 months to expiry or when there is a sharp correction.  Preserves built in dividend discount and avoid widening bid/ask and accelerated time decay on long call  
+- Hold physical stocks: TSM, BHP, UNH, BRK.B, ICE, PAYC, BABA, PDD \- minimize rollover friction, wide bid/ask, and less withholding tax avoidance benefits
+
 As of 3 AUG 2026:
 
 Here is your comprehensive Master Action Blueprint and Summary Verdicts for all ten positions across your portfolio over the coming weeks.
