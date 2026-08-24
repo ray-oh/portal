@@ -145,7 +145,7 @@ Overall assessment of the trades, strategic intent, asessment of its impact and 
 - Log refresh timestamp, FX rates, and reconciliation checks in an **audit trail**.
 - Use the **latest available snapshot** unless a fixed reporting date is specified.
 
-- Current refresh timestamp: **2026-08-23 23:13:01**.
+- Current refresh timestamp: **2026-08-24 23:18:01**.
 
 
 # [transaction_details] START  
@@ -1829,9 +1829,9 @@ Forex;IBKR;Forex;;CNH;0.148953656;;-0.14878;;968.5578;-1.1305;0.0003657528682549
 # [pivot_summary] START  
 # PORTFOLIO PIVOT SUMMARY
 
-**Report Date :** 2026-08-23  
+**Report Date :** 2026-08-24  
 **Filter      :** Open Positions | Forex Balances | Cash Balances  
-**Generated   :** 2026-08-23 23:13:01  
+**Generated   :** 2026-08-24 23:18:01  
 
 ---
 
