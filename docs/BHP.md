@@ -1,60 +1,49 @@
 ## 1. Current Price & Prospects
-As of the latest market close on September 3, 2026, BHP Group Ltd (NYSE: BHP) is trading at $93.08 USD, experiencing a minor intraday contraction of -0.37%. The equity is trading within a premium band near the absolute ceiling of its 52-week range of $56.00 – $93.92 USD.
-## Growth Prospects & Catalysts
+As of the latest market data, BHP Group Ltd (NYSE: BHP) trades at $92.71, consolidating firmly within its wider 52-week trading range of $51.83 – $98.71. The company's short-to-medium-term growth prospects have fundamentally shifted, marked by a structural transition that redefines its long-term investment thesis.
 
-* Structural Transition Metal Pivot: For the first time in corporate history, BHP’s copper division has overtaken iron ore to contribute over half of the group’s underlying EBITDA. This transforms the equity from an iron ore pure-play proxy into a primary structural beneficiary of global decarbonization, data center scaling, and artificial intelligence infrastructure build-outs.
-* Agri-Commodity De-risking: The Jansen Potash Phase-1 project remains fundamentally on track for its 2027 initial production launch, introducing a highly diversified agricultural commodity vector insulated from industrial metal cycles.
-* EBITDA Cash Conversion: Rebounding cash conversion margins have driven institutional capital distribution programs to a 4-year high, securing a resilient underlying capital return profile.
-
-## Immediate Systemic Risks
-
-* Regulatory Under-targeting: Wall Street’s consensus target sits significantly lower at $78.00 USD, indicating sharp correction risks if global metal demand slows or a supply glut develops.
-* Dam Collapse Legacy Liabilities: Final settlement legal structures regarding the Mariana dam collapse compensation packages continue to present an administrative capital overhang.
-* Global Macro Tariff Headwinds: Escalating structural tariff risks threaten underlying global cross-border trade velocities and industrial raw material usage.
+* Copper-Led EBITDA Shift: For the first time in institutional history, copper has overtaken iron ore as BHP's largest earnings driver, now generating over half of underlying EBITDA. This transforms BHP from a pure steel-cycle proxy into a structural vehicle for global green electrification and AI data center infrastructure.
+* FY2026 Earnings Inundation: Full-year financial 2026 reporting revealed a 30% year-over-year surge in underlying net profit to $13.2 Billion ($2.60/share), comfortably outpacing consensus models.
+* Long-Horizon Growth Drivers: Progress on the Jansen potash mega-project establishes a non-correlated commodity hedge, creating an effective long-term buffer against basic industrial metal cycles.
 
 ------------------------------
-## 2. Current Holdings & Past Trades## Active Portfolio Positions (IBKR Account Isolation)## Equities (Stocks)
+## 2. Current Holdings & Past Trades
+The primary portfolio maintains a highly insulated baseline asset position within the Interactive Brokers (IBKR) isolated account, yielding substantial structural capital appreciation.
+## Active Positions
 
-* BHP Long Common Equity: 1,200 Shares. Accumulated at a historical weighted cost basis of $35.102 USD per share. Total current market valuation stands at $112,704.00 USD, generating a positive unrealized capital gain of +$70,581.33 USD.
-
-## Derivatives (Options Contracts)
-
-* BHP 18DEC26 95.00 C (Covered Call): Short 4 Contracts (representing a 400-share underlying delta commitment). Sold at an opening premium price of $4.001 USD per contract. Current market value is $6.050 USD per contract, resulting in an open unrealized derivative loss of -$819.95 USD due to recent underlying equity price appreciation.
+* Equities (Stocks): Long 1,200 shares of BHP priced at a cost basis of $35.1022 per share (Current Market Value: $112,704.00; Unrealized Capital Gain: +$70,581.33).
+* Derivatives (Options): Short -4 contracts of BHP 18DEC26 95.00 Call at an opening premium basis of $4.0005 per contract (Current Market Value: $6.05; Unrealized Options P&L: -$819.80).
 
 ## Historical Transaction Summary
-The position structure reflects a highly disciplined, multi-year buy-and-hold income configuration. The underlying equity block was locked in at ultra-low cyclical levels (~$35.10), capturing massive macro upside while establishing a strong yield-on-cost engine.
-On 2026-07-22, a tactical option overlay was introduced by selling the 18DEC26 95.00 C block to harvest short-term premium. Because the underlying equity has surged past technical resistances to $93.08, the short call position has experienced premium inflation, creating an active assignment risk if the stock breaks past $95.00 before December expiry.
+The equity position was systematically accumulated near historical cyclical lows (~$35.10), capturing a absolute return of +167.56% on pure buy-and-hold dynamics. On July 22, 2026, an income overlay strategy was initiated via the sale of the 4 covered call contracts at $4.00. Rising underlying spot momentum driven by the copper secular tailwinds has pushed this derivative position into-the-money (ITM), generating an option deficit and capping upside potential on 400 underlying shares.
 ------------------------------
-## 3. Recommended Actions## Strategic Stance: HOLD CORE SHARE BLOCK / TACTICALLY DEFEND OPTIONS LAYER
+## 3. Recommended Actions## Core Equity: HOLD (A+)
+Maintain the core 1,200-share long position to continuously harvest high-yield dividend cash flows (currently tracking at an annualized ordinary final rate of $0.99 per share). The global structural commodity pivot supports a permanent allocation. Do not liquidate underlying equity.
+## Options Overlay: BULLISH ACCELERATION / SYSTEMATIC ROLL-OUT
+The short 18DEC26 $95.00 calls pose a structural risk of forced assignment on 400 shares, capping capital appreciation into late 2026. Given the strong technical breakout setup, an active fiduciary directive is issued to execute an immediate defensive roll to prevent equity capping and capture further delta expansion.
 
-* Fiduciary Equity Directive: HOLD the core 1,200 share long position. Given your low entry cost basis, this equity functions as an exceptional cash-generating vehicle yielding 10.54% annually on committed capital. At a 4.18% absolute portfolio weight, it remains safely within institutional concentration limits.
-* Tax Status Optimization: As a verified Hong Kong tax resident, your local capital gains liability is 0%. If assignment is triggered, no domestic tax drag occurs. However, because physical assignment would terminate your high-yielding cost basis, forced share liquidation must be prevented through options intervention.
-* Derivatives Management Directive: Transition the short call position into a defensive posture. With the spot price trading less than 2% below the $95.00 strike and 106 days remaining to expiry, the contract exhibits elevated Gamma risk. The position must be systematically rolled up and out to capture fresh premium credit and avoid forced stock redemption.
+* Tactical Action: Execute a simultaneous Buy-To-Close (BTC) on the 18DEC26 95.00 C and a Sell-To-Open (STO) on the 18JUN27 105.00 Call.
+* Strategic Rationale: Uncaps an additional $10.00 per share in structural equity upside across the 400 shares while extracting extended chronological extrinsic premium value to cover the transaction costs.
 
 ------------------------------
-## 4. Map of Execution Details## Tactical Execution Levels
+## 4. Map of Execution Details## Execution Matrix
 
-| Execution Phase | Target Level (USD) | Order Type | Strategy / Rationale |
-|---|---|---|---|
-| Downside Support Floor | $90.11 | Alert Only | Structural baseline tracking. Breach of this level changes structural outlook to neutral. |
-| Option Defense Trigger | $94.50 | Stop-Limit | Re-purchase the 4x 18DEC26 95 C contracts to prevent near-the-money assignment velocity. |
-| Option Re-establishment | — | Limit | Simultaneously sell 4x 18JUN27 100 C or 17DEC27 105 C to net a minimum credit of $1.50–$2.20. |
-| Upside Structural Cap | $98.42 | Limit Order | Hard macro cycle target. Target zone to systematically trim 20% of the long common stock core. |
+| Sequence | Target Instrument | Action Type | Trigger / Price Target | Limit Order / Threshold | Stop-Loss / Protection Level |
+|---|---|---|---|---|---|
+| 01 | BHP 18DEC26 95.00 C | Buy-To-Close | Spot BHP > $93.00 | Max Net Debit: $6.15 | N/A (Immediate Defusal) |
+| 02 | BHP 18JUN27 105.00 C | Sell-To-Open | Concurrent with Seq 01 | Min Net Credit: $4.20 | Trailing Stop Close > $9.00 |
+| 03 | BHP Core Stock (400 sh) | Assignment Mitigation | Spot BHP > $95.00 at expiry | Force Roll if Net Debit < $6.50 | N/A |
 
-## Decision-Tree Execution Map
-``` mermaid
+## Decision-Tree Logic Framework
+```mermaid
 graph TD
-A[BHP Current Price: $93.08] --> B{Monitor Price Action}
-B -->|Price Rises to $94.50| C[Trigger Defensive Option Management]
-C --> D[Buy Back Short 18DEC26 95 C]
-D --> E[Sell 18JUN27 100 C or 17DEC27 105 C]
-E --> F[Capture Net Credit $1.50 - $2.20 & Avoid Share Assignment]
-B -->|Price Sells Off to $90.11| G[Structural Trend Violation Check]
-G --> H{Assess Macro Underlying Copper Market}
-H -->|Supply Glut / Weak Demand| I[Trim Position Weight by 1.5% to Reallocate]
-H -->|Cyclical Correction Only| J[Maintain Core Positions & Let Options Expire Worthless]
-B -->|Price Aggressively Surges to $98.42| K[Take Capital Profits]
-K --> L[Execute Limit Order to Trim 20% Core Shares]
-L --> M[Reallocate Proceeds to 0% Withholding Tax HK H-Shares]
+A[Monitor BHP Spot Price] --> B{Is BHP Spot Price > $94.50?}
+B -- Yes --> C[Execute Strategy: Roll 18DEC26 95C out to 18JUN27 105C]
+B -- No --> D{Is BHP Spot Price < $88.00?}
+D -- Yes --> E[Maintain Position: Collect Extrinsic Decay & Harvest Dividends]
+D -- No --> F[Hold Existing Covered Call Structure Close to Expiry]
+C --> G{Post-Roll Spot Movement}
+G -->|Spot > $105.00| H[Allow Assignment on 400 Shares at Maturity]
+G -->|Spot < $105.00| I[Retain Premium and Uncapped Underlying Stock Gains]
 ```
+Let me know if you would like to test this trade setup against macro interest rate shifts or evaluate the Hong Kong tax implications on the premium realized from the roll.
 
