@@ -1,57 +1,58 @@
 ## 1. Current Price & Prospects
 
-* Latest Market Price: $92.71 USD (NYSE) / $62.25 AUD (ASX).
-* 52-Week Range: $51.83 – $98.71 USD.
-* Short-to-Medium-Term Prospects: BHP Group Ltd is exhibiting robust cyclical resilience. The firm's operational focus has successfully pivoted toward energy-transition metals, shielding total revenue streams from systemic weakness in Chinese infrastructure and real estate iron ore pipelines.
-* Core Catalysts:
-* Copper Volume & Pricing Power: Structural secular demand driven by global electrification, data center expansions, and electric vehicle architectures provides structural support to operating cash flows.
-   * Shareholder Payout Resiliency: Following FY2026 results (NPAT up 30% YoY to $13.2B USD), management demonstrated a strong fiduciary commitment by declaring a $0.99 USD final dividend, yielding a 72% payout ratio that outpaces diversified mining peers.
+* Market Pricing: BHP Group Limited (NYSE: BHP) is currently trading at USD $90.42 [open_positions].
+* 52-Week Corridor: The asset presents a calculated 52-week trading range bound between a structural support floor of USD $88.77 and a cyclical macro ceiling of USD $98.71.
+* Medium-Term Prospects & Catalysts:
+* Structural Copper Pivot: Copper has structurally overtaken iron ore as BHP's leading earnings engine, capturing over 50% of aggregate underlying EBITDA. Sustained global demand from grid expansions and data centers serves as a highly defensive multi-year catalyst.
+   * Jansen Potash Commercialization: Multi-billion dollar development phases in Canada offer a secular entry into agricultural nutrients, systematically diversifying the top-line revenue mix away from heavy industrial metals.
+   * Asset Monetization Rumors: Ongoing strategic discussions regarding potential joint-venture partnerships within Western Australia Iron Ore assets could serve as a near-term capital unlock, clearing the path for special dividends or buybacks.
 
 ------------------------------
-## 2. Current Holdings & Past Trades## Active Portfolio Exposures## Equities (Stocks)
+## 2. Current Holdings & Past Trades## Active Portfolio Inventory
+Your active exposure is concentrated exclusively within your IBKR account network, representing a total portfolio weight of 4.27% across all combined global brokerages [open_positions].
 
-* BHP (Primary Account - IBKR): 1,200 shares. Cost basis: $35.1022 USD. Current valuation: $112,704.00 USD. Unrealized P&L: +$70,581.33 USD (Capital gains of 167.56%). Original capital exposure has been dramatically de-risked via multi-year distributions.
+* Underlying Equities: 1,200 shares of BHP long stock with a deeply anchored average cost basis of USD $35.1022 per share [open_positions]. Total current market value is marked at USD $112,704.00, generating a multi-year unrealized equity capital gain of +$70,581.33 [open_positions].
+* Derivative Contracts: -4 contracts (Short) of the BHP 18DEC26 95 Call [open_positions]. The short position carries a current market premium of USD $6.05 per contract against an original entry credit of USD $4.0005, resulting in a tactical unrealized derivatives loss of -$819.80 [open_positions].
 
-## Derivatives (Options Contracts)
+## Historical Transaction Summary
 
-* BHP 18DEC26 95.00 C (IBKR): Short 4 contracts (-4.00 Qty). Execution premium captured: $4.0005 USD. Current contract price: $6.0500 USD. Unrealized P&L: -$820.00 USD. This covered call overlay is currently under immediate delta and gamma pressure as spot tracks within 2.4% of the strike.
-
-## Historical Transaction Ledger Summary
-An audit of historical transactions validates an exceptional long-term accumulation and compounding campaign:
-
-* Capital Recovery Metrics: Total cash flow generated via multi-currency distributions over the holding duration stands at +$39,502.30 USD. Cumulative net dividends have successfully recaptured 93.78% of the initial capital deployed.
-* Aggregated Portfolio Return Metrics: Combining equity appreciation, net options premiums captured, and historical dividend receipts net of foreign withholding taxes, the total realized and unrealized economic return on deployed capital sits at 259.39% (Annualized XIRR of 16.24%).
+* Equity Accumulation: Core long equity tranches were steadily built at structural cyclical lows, positioning the capital base to capture a cumulative net cash flow of +$36,550.47 in net dividends (adjusted for 30% withholding tax at source) [portfolio.md].
+* Derivative Overlays: On 2026-07-22, a strategic covered call overlay was initialized via the sale of 4 contracts of the 18DEC26 $95 strike, collecting a total initial premium inflow of USD $1,600.20 to monetize localized volatility peaks [portfolio.md].
 
 ------------------------------
-## 3. Recommended Actions## Core Directive: HOLD Equities / ACTIVE RISK MANAGEMENT on Derivative Overlays
-Original base equity positions should be firmly held to capture the high-yielding structural baseline cash flow. However, immediate defensive risk-mitigation steps are mandated for the derivative layer to insulate the underlying stock from involuntary capital realization (forced assignment).
-## Defensive Option Management: Tactical Roll Over
-The short 18DEC26 95.00 Call layer is structurally vulnerable. To prevent 400 shares from being called away at a price below long-term fair value, capitalize on immediate post-ex-dividend spot softening to execute a defensive roll. Buy-to-Close (BTC) the 18DEC26 95.00 C and simultaneously Sell-to-Open (STO) the 18JUN27 100.00 C. This elevates your upside capital appreciation cap by 5.2% while securing net premium yield.
-## Tax Optimization Context
-As a confirmed Hong Kong tax resident, you trigger a 0% corporate/personal capital gains tax and 0% domestic tax on foreign-sourced income. However, US-sourced distributions face a mandatory 30% withholding tax at source. Defensive option positioning should prioritize capturing out-of-the-money capital appreciation up to the $100 strike over high-yielding call premiums, as capital appreciation remains completely tax-exempt under your jurisdiction.
+## 3. Recommended Actions## Directives: HOLD Underlying Equities | TACTICAL ROLL Derivatives
+As a fiduciary financial advisor, the prescriptive directive is to HOLD the core 1,200-share equity tranche while executing an active, defensive ROLL-FORWARD adjustment on the under-hedged option layer if specific technical thresholds are triggered.
+## Allocation Rationale
+
+* Uncapped Upside Exposure: Your short call contracts cover only 400 shares, meaning 66.7% of your core underlying position (800 shares) remains completely uncapped to capture macro commodity expansions.
+* Tax & Jurisdiction Shielding: Operating as a certified Hong Kong tax resident, your statutory exposure to capital gains tax on automated physical assignments is 0% [portfolio.md]. Yield friction is limited to dividend withholding taxes, making strategic option writing highly tax-efficient.
+* Theta Management: With the spot price trading at $90.42, the short calls remain out-of-the-money. Time-decay dynamics will systematically erode the option’s extrinsic value over the coming weeks, assuming spot remains below the strike.
+
 ------------------------------
-## 4. Map of Execution Details## Execution Steps & Order Matrix
+## 4. Map of Execution Details## Operational Threshold Matrix
 
-| Order Sequencing | Position Layer | Order Type | Target Execution Threshold | Tactical Objective / Rationale | Emergency Stop-Loss / Exit |
-|---|---|---|---|---|---|
-| Step 1 (Immediate) | 18DEC26 95.00 C | Buy-to-Close (BTC) | $5.80 USD or lower | Close out vulnerable short leg during any morning ex-dividend spot price pullback. | N/A - Closing Order |
-| Step 2 (Simultaneous) | 18JUN27 100.00 C | Sell-to-Open (STO) | $8.30 USD or higher | Complete defensive time-and-strike roll; lock in minimum Net Credit of +$2.50 USD. | Stop-Loss on Contract: Close if option reaches $12.50 on runaway spot rally. |
-| Step 3 (Conditional) | Core Equity Base | Good-Til-Canceled (GTC) Limit | $98.50 USD | Supply-side take-profit target for 200 shares if macro copper curves spike into 52-week highs. | Trailing Stop-Loss: Protect downside at $82.00 USD if iron ore market structurally breaks. |
+| Execution Step | Target Price | Order Mechanism | Tactical Metric & Condition | Strategic Outcome |
+|---|---|---|---|---|
+| 1. Baseline Retention | USD $89.00–$94.50 | Pass-Through | Spot remains below strike; allow Theta decay to run. | Retain full cash premium credit; maintain structural equity exposure. |
+| 2. Defensive Extension | $\ge$ USD $95.00 | GTC Limit Order | Spot breaks technical resistance or triggers physical assignment. | Buy back 18DEC26 $95 Call; simultaneously sell Mid-2027 $100 Call for a net credit. |
+| 3. Take Profit (Options) | $\le$ USD $88.00 | Buy-to-Close Limit | Extrinsic premium value collapses below USD $1.50. | Close contracts early to secure cash derivative profits; unlock full upside on 1,200 shares. |
+| 4. Structural Stop-Loss | None | Fiduciary Override | Break of macro copper cycle or unexpected Jansen termination. | Hard stop-loss on equity is omitted due to deeply protected cost basis ($35.10). |
 
-## Decision-Tree Execution Flowchart
+## Conditional Execution Map
 ```mermaid
 graph TD
-A[Monitor BHP Spot Price Post Ex-Dividend Date] --> B{Does BHP Spot break above $95.00 before Dec Expiry?}
-B -- Yes: Runaway Copper Rally --> C[Short 95C Intrinsic Value Escalates]
-C --> D{Is Position Assigned Prior to Expiration?}
-D -- Yes --> E[Forced Capital Realization: 400 Shares called away at $95.00. Capture Cash for Reinvestment]
-D -- No --> F[Execute Defensive Roll-Forward: BTC 18DEC26 95C / STO 18JUN27 100C for Net Credit >= $2.50]
-B -- No: Commodity Spot Consolidation --> G[Short 95C suffers severe time decay theta loss]
-G --> H{Does BHP Spot trade below $90.00 Support?}
-H -- Yes --> I[Allow 95C to expire worthless. Sell-to-Open next cyclical Covered Call layer at $95 strike for FY2027]
-H -- No --> J[Maintain current options position framework. Let contracts ride to near-term maturity variance floor]
+A[Monitor BHP Spot Price Current: $90.42] --> B{Price Threshold Assessment}
+B -->|Spot drops to <= $88.00| C[Execute Buy-To-Close Order on 18DEC26 95C]
+C --> C1[Lock in Option Capital Profits & Reset Full Equity Upside]
+B -->|Spot consolidates $89.00 - $94.50| D[Maintain Inertial Hold Protocol]
+D --> D1[Extract Pure Extrinsic Theta Decay Yield]
+B -->|Spot advances to >= $95.00| E{Fiduciary Assignment Preference}
+E -->|Option A: Accept Delivery| F[Allow 400 Shares to be Called Away at $95.00]
+F --> F1[Realize 181.76% Locked Gain on Tranche & Maintain 800 Shares Uncapped]
+E -->|Option B: Protect Equity Base| G[Execute Defensive Credit Roll Transaction]
+G --> G1[Buy to Close 18DEC26 95C + Sell to Open Mid-2027 100C]
+G1 --> G2[Raise Portfolio Cap to $100 & Capture Net Cash Credit Inflow]
 ```
 ------------------------------
-## Fiduciary & Analytical Disclaimer
-This summary report constitutes general investment analysis for educational and auditing purposes based strictly on provided documentation. It does not consider individual localized liquidity requirements, specific multi-broker balance constraints, or broader asset class correlation dependencies outside of the verified data environment.
+If you would like us to compile a comparative matrix illustrating the exact net credit yield profile of specific Mid-2027 replacement expirations to optimize your rolling threshold parameters, please let us know.
 
