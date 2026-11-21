@@ -2,7 +2,7 @@
 
 **Report Date :** 2026-11-21  
 **Filter      :** Open Positions | Forex Balances | Cash Balances  
-**Generated   :** 2026-11-21 20:53:11  
+**Generated   :** 2026-11-21 23:58:17  
 
 ---
 
@@ -11,14 +11,13 @@
 ### Schwab
 
 ```
-            Amount  Quantity  Value in USD
-Underlying                                
-CPRT         812.5      15.0        -812.5
-CRM          417.0       2.0        -417.0
-MSFT        1132.5       1.0       -1132.5
+             Amount  Quantity  Value in USD
+Underlying                                 
+NVDA       -2814.60       1.0      -2814.60
+TSM        -7552.68       1.0      -7552.68
 ```
 
-> **SUBTOTAL [Schwab]**  Amount: `       2,362.00`  Quantity: `          18.00`  Value in USD: `      -2,362.00`
+> **SUBTOTAL [Schwab]**  Amount: `     -10,367.28`  Quantity: `           2.00`  Value in USD: `     -10,367.28`
 
 ### IBKR
 
@@ -54,7 +53,7 @@ UNH         -9111.49       3.0      -9111.49
 
 > **SUBTOTAL [IBKR]**  Amount: `    -120,784.61`  Quantity: `          56.00`  Value in USD: `    -128,791.03`
 
-> **SUBTOTAL [Equity and Index Options]**  Amount: `    -118,422.61`  Quantity: `          74.00`  Value in USD: `    -131,153.03`
+> **SUBTOTAL [Equity and Index Options]**  Amount: `    -131,151.89`  Quantity: `          58.00`  Value in USD: `    -139,158.31`
 
 ---
 
@@ -133,12 +132,12 @@ Forex       8639.66      0.78       6713.02
 ### Schwab
 
 ```
-              Amount  Quantity  Value in USD
-Underlying                                  
-Forex       72675.14       1.0      72675.14
+                Amount  Quantity  Value in USD
+Underlying                                    
+CASH - Schwab  78478.7      -1.0       78478.7
 ```
 
-> **SUBTOTAL [Schwab]**  Amount: `      72,675.14`  Quantity: `           1.00`  Value in USD: `      72,675.14`
+> **SUBTOTAL [Schwab]**  Amount: `      78,478.70`  Quantity: `          -1.00`  Value in USD: `      78,478.70`
 
 ### StanChart
 
@@ -190,7 +189,7 @@ Forex       8878.06      0.78       6898.25
 
 > **SUBTOTAL [UOB]**  Amount: `       8,878.06`  Quantity: `           0.78`  Value in USD: `       6,898.25`
 
-> **SUBTOTAL [Forex]**  Amount: `   1,913,448.82`  Quantity: `          13.09`  Value in USD: `     451,698.79`
+> **SUBTOTAL [Forex]**  Amount: `   1,919,252.38`  Quantity: `          11.09`  Value in USD: `     457,502.35`
 
 ---
 
@@ -227,11 +226,11 @@ Z74         430.00   -100.00        334.11
 ```
              Amount  Quantity  Value in USD
 Underlying                                 
-IVV          7769.8     -10.0        7769.8
-MSFT        49945.0    -100.0       49945.0
+IVV          6937.1     -10.0        6937.1
+MSFT        48452.0    -100.0       48452.0
 ```
 
-> **SUBTOTAL [Schwab]**  Amount: `      57,714.80`  Quantity: `        -110.00`  Value in USD: `      57,714.80`
+> **SUBTOTAL [Schwab]**  Amount: `      55,389.10`  Quantity: `        -110.00`  Value in USD: `      55,389.10`
 
 ### IBKR
 
@@ -303,7 +302,7 @@ UNH          66096.00    -200.0      66096.00
 
 > **SUBTOTAL [IBKR]**  Amount: `   2,783,066.21`  Quantity: `    -158,867.00`  Value in USD: `   1,233,379.49`
 
-> **SUBTOTAL [Stocks]**  Amount: `   2,846,286.65`  Quantity: `    -164,898.91`  Value in USD: `   1,295,467.81`
+> **SUBTOTAL [Stocks]**  Amount: `   2,843,960.95`  Quantity: `    -164,898.91`  Value in USD: `   1,293,142.11`
 
 ---
 
@@ -330,4 +329,4 @@ Underlying
 ---
 
 > ### GRAND TOTAL  
-> Amount: `   5,483,149.00`  Quantity: `  -1,025,811.83`  Value in USD: `   2,457,849.71`
+> Amount: `   5,473,897.58`  Quantity: `  -1,025,829.83`  Value in USD: `   2,453,322.29`
