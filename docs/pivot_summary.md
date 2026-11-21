@@ -2,7 +2,7 @@
 
 **Report Date :** 2026-11-21  
 **Filter      :** Open Positions | Forex Balances | Cash Balances  
-**Generated   :** 2026-11-21 20:19:09  
+**Generated   :** 2026-11-21 20:22:51  
 
 ---
 
